@@ -1,7 +1,4 @@
 # ADRION 369: New Standard of Conscious Intelligence / Nowy Standard Świadomej Inteligencji
-
----
-
 ## 🎯 BLUF: Foundation of Ethical and Transparent AI
 
 **ADRION 369** is an advanced operating system for autonomous AI agents that replaces opaque algorithms ("black box") with the **mathematical harmony of sacred geometry**. Using the rigorous **3-6-9 structure**, the system guarantees:
