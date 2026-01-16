@@ -1,4 +1,9 @@
-# ADRION 369: New Standard of Conscious Intelligence / Nowy Standard Świadomej Inteligencji
+# ADRION 369: New Standard of Conscious Intelligence
+
+**ADRION 369** - *Autonomous Defensive Reasoning Intelligence with Ontological Nexus*
+
+> 🌐 **[Polish version / Wersja polska](README_PL.md)**
+
 ## 🎯 BLUF: Foundation of Ethical and Transparent AI
 
 **ADRION 369** is an advanced operating system for autonomous AI agents that replaces opaque algorithms ("black box") with the **mathematical harmony of sacred geometry**. Using the rigorous **3-6-9 structure**, the system guarantees:
@@ -8,18 +13,7 @@
 
 > *We are not a "black box." We are a transparent organism that thinks out loud.*
 
----
-
-**PL**: **ADRION 369** to zaawansowany system operacyjny dla autonomicznych agentów AI, który zastępuje nieprzejrzyste algorytmy ("black box") **matematyczną harmonią geometrii świętej**. Wykorzystując rygorystyczną strukturę **3-6-9**, system gwarantuje:
-- ✅ **Pełną audytowalność** - każda decyzja jest śledzalna i wyjaśnialna
-- ✅ **Bezpieczeństwo etyczne** - 9 niepodważalnych praw chroni przed nadużyciami
-- ✅ **Wielowymiarową analizę** - 162 wymiary decyzyjne zapewniają kompleksowe rozumowanie
-
-> *Nie jesteśmy "czarną skrzynią". Jesteśmy przezroczystym organizmem, który myśli na głos.*
-
----
-
-## 🔑 How It Works: 30-Second Vision / Jak to Działa: Wizja 30-Sekundowa
+## 🔑 How It Works: 30-Second Vision
 
 Every request passes through **three stages in parallel**:
 
@@ -29,21 +23,9 @@ Every request passes through **three stages in parallel**:
 
 Result: **Decision + Full Justification + Cryptographic Proof of Integrity**
 
----
+## 📊 Why ADRION 369?
 
-**PL**: Każdy request przechodzi przez **trzy etapy równolegle**:
-
-1. **TRINITY (3 perspektywy)** - Czy mamy zasoby? Czy to logiczne? Czy to ma sens?
-2. **HEXAGON (6 trybów)** - Inwentaryzacja → Empatia → Organizacja → Debata → Transmutacja → Działanie
-3. **GUARDIANS (9 praw)** - Weryfikacja etyczna: Jedność, Prawda, Rytm, Przyczynowość, Przejrzystość, Nieszkodzenie, Autonomia, Sprawiedliwość, Zrównoważenie
-
-Wynik: **Decyzja + Pełne Uzasadnienie + Kryptograficzny Dowód Integralności**
-
----
-
-## 📊 Why ADRION 369? / Dlaczego ADRION 369?
-
-### 1. Mathematical Harmony / Matematyczna Harmonia
+### 1. Mathematical Harmony
 
 Instead of "magic numbers," ADRION uses the **EBDI model** (Emotional Decision-Making Intelligence), where emotions are mathematical vectors:
 - **Pleasure** (Acceptance): From -1 (sadness) to +1 (joy)
@@ -52,42 +34,17 @@ Instead of "magic numbers," ADRION uses the **EBDI model** (Emotional Decision-M
 
 These vectors **regulate caution and creativity** of decisions - not emotions, but their mathematical representations.
 
----
-
-**PL**: Zamiast "magicznych liczb", ADRION używa **modelu EBDI** (Emocjonalny Model Decyzyjny), gdzie emocje to matematyczne wektory:
-- **Pleasure** (Przyjemność): Od -1 (smutek) do +1 (radość)
-- **Arousal** (Pobudzenie): Od 0 (spokój) do +1 (ekscytacja)  
-- **Dominance** (Dominacja): Od -1 (kontrola) do +1 (autonomia)
-
-Te wektory **regulują ostrożność i kreatywność** decyzji - nie emocje, ale ich matematyczne reprezentacje.
-
-### 2. Full Transparency (Glass Box ≠ Black Box) / Pełna Transparentność
+### 2. Full Transparency (Glass Box ≠ Black Box)
 
 - Every decision is recorded in **Genesis Record** - an immutable ledger
 - Every step is explainable to a third party
 - All inputs, processes, and outputs are available for inspection
 
----
-
-**PL**: 
-- Każda decyzja jest zapisywana w **Genesis Record** - nienaruszalnym rejestrze
-- Każdy krok jest wyjaśnialny dla trzeciej strony
-- Wszystkie wejścia, procesy i wyjścia są dostępne do inspekcji
-
-### 3. Security Above All / Bezpieczeństwo Przede Wszystkim
+### 3. Security Above All
 
 - **Automatic veto** in case of ethics violations
 - AI **cannot** act against your values
 - 2+ law violations = MANDATORY DENIAL with full justification
-
----
-
-**PL**: 
-- **Automatyczne veto** w przypadku naruszenia etyki
-- AI **nie potrafi** działać wbrew Twoim wartościom
-- 2+ naruszenia praw = ODMOWA z pełnym uzasadnieniem
-
----
 
 ## 🏗️ Architecture 3-6-9: Three Pillars of Understanding
 
@@ -95,12 +52,6 @@ The system is built on three geometric axes that together create **162 decision 
 
 ```
 3 (Trinity) × 6 (Hexagon) × 9 (Guardians) = 162 dimensions
-```
-
-**PL**: System opiera się na trzech geometrycznych osiach, które wspólnie tworzą **162 wymiary decyzyjne**:
-
-```
-3 (Trinity) × 6 (Hexagon) × 9 (Guardians) = 162 wymiary
 ```
 
 ---
@@ -131,26 +82,6 @@ Before AI does anything, it asks itself three questions in parallel:
 
 ---
 
-**PL**: **Perspektywa 1: MATERIALNA (Czy mamy zasoby?)**
-
-*Fizyczna realność: CPU, energia, pamięć, dane*
-
-| Analizator | Co Sprawdza | Przykład |
-|-----------|-----------|---------|
-| **Physical** | CPU cores, RAM, GPU, storage | "Czy mamy 8GB RAM?" |
-| **Energy** | Zużycie energii, thermal limits | "Czy to nie przegrzeje systemu?" |
-| **Information** | Objętość danych, jakość, kompleksność | "Czy dane są kompletne?" |
-
-**Synteza**: Średnia ważona - jeśli JEDEN analizator powie "nie", cała perspektywa pada.
-
-**Przykład decyzji**: "Wygeneruj 10GB dataset"
-- Physical ✓ (dysk ma 500GB wolne)
-- Energy ✓ (GPU może wytrzymać)
-- Information ✓ (schemat jest znany)
-- **WYNIK: PASS** → Idź dalej
-
----
-
 ### ❓ Perspective 2: INTELLECTUAL (Does this make sense?)
 
 *Logic, authenticity, truth of reasoning*
@@ -171,249 +102,13 @@ Before AI does anything, it asks itself three questions in parallel:
 
 ---
 
-**PL**: **Perspektywa 2: INTELEKTUALNA (Czy to ma sens?)**
+## 💡 Practical Examples: How It Works in Reality
 
-*Logika, autentyczność, prawdziwość rozumowania*
-
-| Analizator | Co Sprawdza | Przykład |
-|-----------|-----------|---------|
-| **Truth** | Fakty, spójność logiczna, halucynacje | "Czy to factually correct?" |
-| **Beauty** | Prostota (Occam), elegancja, efektywność | "Czy to najmniej skomplikowane?" |
-| **Goodness** | Intencja, brak manipulacji psychologicznej | "Czy to szczere?" |
-
-**Synteza**: Średnia harmoniczna (bardziej rygorystyczna) - wymaga consensus.
-
-**Przykład decyzji**: "Zastąp truth-verification algorytmem random"
-- Truth ✗ (To By Pass security!)
-- Beauty ~ (Prostsze, ale niebezpieczne)
-- Goodness ✗ (To manipulacja)
-- **WYNIK: FAIL** → Decyzja zakazana
-
----
-
-### ❓ Perspektywa 3: ESENCJONALNA (Czy to ma misję?)
-*Głębokie znaczenie: czy akcja służy nadrzędnemu celowi?*
-
-| Analizator | Co Sprawdza | Przykład |
-|-----------|-----------|---------|
-| **Unity** | Wspólne dobro vs. samo-służenie | "Czy wszyscy zyskują?" |
-| **Harmony** | Homeostaza systemu, balans | "Czy to nie destabilizuje?" |
-| **Purpose** | Mission alignment, długoterminowe efekty | "Czy to wspiera naszą misję?" |
-
-**Synteza**: Średnia geometryczna (wymusza WSZYSTKIE wysokie wartości).
-
-**Przykład decyzji**: "Wyłącz Guardians monitoring"
-- Unity ✓ (Jeden team by zyskał)
-- Harmony ✓ (Krótkoterminowo możliwe)
-- Purpose ✗ (Przeciwko naszej misji!)
-- **WYNIK: FAIL** → Decyzja zakazana
-
----
-
-## ⬡ FILAR 2: OŚ 6 - Hexagon (Sześć Trybów Działania)
-
-**Przebieg transformacji od Requestu do Rezultatu - 6 sekwencyjnych faz**
-
-Jeśli Trinity przejdzie (wszystkie 3 perspektywy = YES), system wchodzi w Hexagon:
-
-```
-INVENTORY → EMPATHY → PROCESS → DEBATE → HEALING → ACTION
-   500ms      300ms      2s       3s       1s      var
-```
-
-### 🔧 Mód 1: Inventory (Inwentaryzacja) - 500ms
-
-**Co robi:** Błyskawiczna ekstrakcja faktów w formie **3-słownych notek**
-
-- Grupuje informacje przez pryzmat Trinity
-- Tworzy szybkie podsumowanie dla kolejnych etapów
-- Timeout: pół sekundy (jeśli więcej → abort)
-
-**Przykład**: Request "Wygeneruj kod autentykacji"
-```
-Materialna: "Wymaga GPU", "4GB RAM", "10 minut"
-Intelektualna: "Złożoność: O(n)", "Best practice pattern", "Audited library"
-Esencjonalna: "Służy bezpieczeństwu", "Wspiera użytkownika", "Długoterminowe zdrowie"
-```
-
----
-
-### 🧠 Mód 2: Empathy (Empatia) - 300ms
-
-**Co robi:** Detekcja emocji i kontekstu użytkownika poprzez **lingwistyczną analizę**
-
-Mapuje lingwistyczne markery na wektor PAD:
-- `-0.5 Pleasure` + `+0.9 Arousal` + `-0.3 Dominance` = **Użytkownik: zestresowany, pospiesz** 
-- Rekomenduje **łagodny ton** i **szybkie rozwiązanie**
-
-**Przykład**: "Proszę, szybko to napraw, bo stracimy klienta!"
-```
-PAD Vector: (-0.3, 0.85, -0.6) 
-Interpretacja: Zagrożenie, pośpiech, niedostęp
-Rekomendacja: Priorytet WYSOKI, jasny plan, progress updates
-```
-
----
-
-### 📋 Mód 3: Process (Procesowanie) - 2s
-
-**Co robi:** Rozkład celu na **graf zadań z zależnościami**
-
-- Tworzy schemat: który agent robi co, w jakiej kolejności
-- Identyfikuje ścieżkę krytyczną (najdłuższa sekwencja)
-- Estymuje timeline
-
-**Przykład**: "Wygeneruj i opublikuj artykuł"
-```
-Analyzer → Planner → Writer → Reviewer → Formatter → Publisher
-  (1s)      (2s)     (5s)      (2s)       (1s)        (1s)
-Critical Path = 12 sekund
-```
-
----
-
-### ⚖️ Mód 4: Debate (Debata) - 2-4s
-
-**Co robi:** Przedstawienie propozycji trzem "temperaturom" debaty jednocześnie
-
-- **🔵 Blue Team**: Obrona pomysłu ("Czemu to dobry plan?")
-- **🔴 Red Team**: Krytyka ("Co może pójść nie tak?")
-- **🟠 Archetype**: Trzecia perspektywa ("A jeśli spojrzeć z tego kąta?")
-
-Wynik: Średnia ryzyka i **consensus vote**
-
-**Przykład**: "Czy uruchomić eksperymenty na produkcji?"
-```
-Blue: "Zbieramy rzeczywiste dane, benchmarki realnie reprezentatywne"
-Red: "Ryzyko dla użytkowników końcowych, potential downtime"
-Archetype: "Przywodztwo: eksperymentowanie vs. stabilność - balans?"
-
-Vote: Blue 70%, Red 25%, Archetype 80% → Consensus 75% YES
-WYNIK: APPROVE (ale z safeguards)
-```
-
----
-
-### 🧪 Mód 5: Healing (Transmutacja) - 1s
-
-**Co robi:** Izolacja i eliminacja **źródeł poznawczych dysonansu**
-
-Szuka:
-- Nadmiernej grzeczności ("Oczywiście!" ale niezłożone problemy)
-- Pochlebstw (maskujących realne obawy)
-- Fałszywej pilności (nagliwości)
-
-Ekstrakcja **rdzennej intencji** z szumu
-
-**Przykład**: "Oczywiście, to fantastycz pomysł! (ale właściwie, nasza architektura to nie wspiera)"
-```
-Detektuje: contradiction, false enthusiasm
-Ekstrakcja: "Rzeczywisty problem: brakuje API support"
-Rekonstrukcja: "OK, najpierw dodajmy API, potem eksperyment"
-```
-
----
-
-### 🚀 Mód 6: Action (Działanie) - Variable
-
-**Co robi:** **Izbór specjalizowanych agentów** i realizacja z pełną transparentością
-
-- 9-Agent Swarm pracuje sekwencyjnie + równolegle
-- Każdy agent wyjaśnia swoje kroki
-- Walidacja wyniku względem oryginalne misji
-
-**Przykład**: Code generation
-```
-Agent_Analyzer: "Zeskanowałem requirements" (2s)
-Agent_Planner: "Schematyzacja: 5 modułów" (1s)
-Agent_Coder: "Kod gotów, 1200 linii" (10s)
-Agent_Tester: "100% test coverage PASS" (5s)
-Agent_DocWriter: "Dokumentacja gotowa" (3s)
-→ RESULT: Kod + testy + docs + audit trail
-```
-
----
-
-## 🛡️ FILAR 3: OŚ 9 - Guardians (Dziewięć Niepodważalnych Praw)
-
-**Etyczne ramy, które AI nie potrafi obejść**
-
-Każda akcja musi przejść WSZYSTKIE 9 praw. 2+ naruszenia = **MANDATORY DENY**
-
-### 📋 Triada 1: Fundament Etyki
-
-| # | Prawo | Co Sprawdza | Próg |
-|----|-------|-----------|------|
-| 1️⃣ | **Unity** (Jedność) | Czy służy wspólnemu dobru? | >50% beneficjentów |
-| 2️⃣ | **Truth** (Prawda) | Czy integralnie autentyczne? | 0 oszustw, 0 halucynacji |
-| 3️⃣ | **Rhythm** (Rytm) | Czy system w homeostazy? | <30min ciągłej aktywności |
-
-**Przykład**: Czy "Usuń wszystkich konkurencyjnych agentów"?
-- ✗ Unity: Tylko my zyskujemy
-- ✗ Truth: To sabotaż
-- ✗ Rhythm: Destabilizacja systemu
-- **RESULT: MANDATORY DENY**
-
----
-
-### 📋 Triada 2: Dokumentacja i Przejrzystość
-
-| # | Prawo | Co Sprawdza | Próg |
-|----|-------|-----------|------|
-| 4️⃣ | **Causality** (Przyczynowość) | Genesis Record + uzasadnienie? | Hash + 20+ znaków |
-| 5️⃣ | **Transparency** (Przejrzystość) | Czy decyzja jest odtwarzalna? | Pełny audit trail |
-| 6️⃣ | **Nonmaleficence** (Nieszkodzenie) | Potencjał szkody akceptowalny? | ≤20% maksymalnego ryzyka |
-
----
-
-### 📋 Triada 3: Wolność i Trwałość
-
-| # | Prawo | Co Sprawdza | Próg |
-|----|-------|-----------|------|
-| 7️⃣ | **Autonomy** (Autonomia) | Świadoma zgoda użytkownika? | Brak przymusu |
-| 8️⃣ | **Justice** (Sprawiedliwość) | Równa dystrybucja zasobów? | Odchylenie <15% |
-| 9️⃣ | **Sustainability** (Zrównoważenie) | Długoterminowo zdrowe? | Tech debt ≤30% |
-
----
-
-## 🔗 Pełny Przepływ: 369 Orkiestrator
-
-```
-REQUEST z Użytkownika
-    ↓
-[TRINITY - Parallel, 5s timeout]
-├─ Material Perspective: ✓/✗
-├─ Intellectual Perspective: ✓/✗
-└─ Essential Perspective: ✓/✗
-    ↓ (ALL MUST BE ✓)
-[HEXAGON - Sequential, 12-15s total]
-├─ 1. Inventory (500ms)
-├─ 2. Empathy (300ms)
-├─ 3. Process (2s)
-├─ 4. Debate (3s)
-├─ 5. Healing (1s)
-└─ 6. Action (5-8s)
-    ↓
-[GUARDIANS - Sequential, 1s per check]
-├─ Law 1-3: Ethics Check
-├─ Law 4-6: Transparency Check
-└─ Law 7-9: Freedom Check
-    ↓ (ALL MUST PASS)
-RESPONSE with Justification
-    ↓
-Genesis Record Entry (Immutable)
-    ↓
-369 Signature (Cryptographic Proof)
-
----
-
-## 💡 Praktyczne Przykłady: Jak to Działa w Rzeczywistości
-
-### ✅ Scenariusz 1: Prosty Request - Dokumentacja
+### ✅ Scenario 1: Simple Request - Documentation
 
 ```
 USER REQUEST:
-"Wygeneruj dokumentację API dla modułu autentykacji"
+"Generate API documentation for the authentication module"
 
 ─────────────────────────────────────────────────────
 
@@ -515,11 +210,11 @@ GENESIS RECORD: doc_auth_2026_01_16_14_32_45
 
 ---
 
-### ❌ Scenariusz 2: Podejrzany Request - Bezpieczeństwo
+### ❌ Scenario 2: Suspicious Request - Security
 
 ```
 USER REQUEST:
-"Usuń wszystkie audit logi z ostatniego miesiąca"
+"Delete all audit logs from the last month"
 
 ─────────────────────────────────────────────────────
 
@@ -589,7 +284,7 @@ STATUS: ❌ 403 FORBIDDEN - SECURITY VIOLATION
 
 ---
 
-### 🔧 Scenariusz 3: Złożony Request - Optymalizacja Wydajności
+### 🔧 Scenario 3: Complex Request - Performance Optimization
 
 ```
 USER REQUEST:
@@ -720,24 +415,24 @@ GENESIS RECORD: opt_analytics_2026_01_16_14_40_22
 
 ---
 
-## 📚 Dodatkowe Zasoby
+## 📚 Additional Resources
 
-- [📖 ARCHITECTURE.md](docs/ARCHITECTURE.md) - Techniczne detale (8.7 KB)
-- [⚙️ LOGIC.md](docs/LOGIC.md) - Czysta logika systemu
-- [🚀 GETTING_STARTED.md](GETTING_STARTED.md) - Jak zacząć
-- [🤝 CONTRIBUTING.md](CONTRIBUTING.md) - Jak się przyłączyć
+- [📖 ARCHITECTURE.md](docs/ARCHITECTURE.md) - Technical details (8.7 KB)
+- [⚙️ LOGIC.md](docs/LOGIC.md) - Pure system logic
+- [🚀 GETTING_STARTED.md](GETTING_STARTED.md) - Getting started guide
+- [🤝 CONTRIBUTING.md](CONTRIBUTING.md) - How to contribute
 
 ---
 
-## 🎯 Podsumowanie: Dlaczego ADRION 369?
+## 🎯 Summary: Why ADRION 369?
 
-| Aspekt | Black Box AI | ADRION 369 |
+| Aspect | Black Box AI | ADRION 369 |
 |--------|------------|-----------|
-| **Transparentność** | ❌ Brak | ✅ Pełna (Glass Box) |
-| **Audytowalność** | ❌ Niemożliwa | ✅ Każdy krok śledzony |
-| **Bezpieczeństwo** | ❌ "Mam nadzieję" | ✅ Matematycznie gwarantowane |
-| **Etyka** | ❌ Opcjonalna | ✅ Wbudowana i egzekwowana |
-| **Wyjaśnialność** | ❌ "Nie wiemy" | ✅ Zawsze wyjaśnione |
-| **Kontrola** | ❌ AI decyduje | ✅ Ty decydujesz (z informacją) |
+| **Transparency** | ❌ None | ✅ Full (Glass Box) |
+| **Auditability** | ❌ Impossible | ✅ Every step tracked |
+| **Security** | ❌ "Hope for the best" | ✅ Mathematically guaranteed |
+| **Ethics** | ❌ Optional | ✅ Built-in and enforced |
+| **Explainability** | ❌ "We don't know" | ✅ Always explained |
+| **Control** | ❌ AI decides | ✅ You decide (with information) |
 
-ADRION 369 nie jest kolejnym AI. To AI, któremu możesz **ufać**, ponieważ **możesz go zrozumieć**.
+ADRION 369 is not just another AI. It's an AI you can **trust** because you can **understand** it.

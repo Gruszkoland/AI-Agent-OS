@@ -1,157 +1,153 @@
 # Contributing to ADRION
 
-Dziękujemy za zainteresowanie udziałem w projekcie ADRION! 🙏
+Thank you for your interest in contributing to the ADRION project! 🙏
 
 ---
 
-## 📋 Spis Treści
+## 📋 Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
-- [Jak Zacząć](#jak-zacząć)
-- [Proces Kontrybutora](#proces-kontrybutora)
-- [Wytyczne Kodowania](#wytyczne-kodowania)
-- [Struktura Commitów](#struktura-commitów)
-- [Proces PR](#proces-pr)
-- [Testy](#testy)
-- [Dokumentacja](#dokumentacja)
+- [Getting Started](#getting-started)
+- [Contributor Process](#contributor-process)
+- [Coding Guidelines](#coding-guidelines)
+- [Commit Structure](#commit-structure)
+- [PR Process](#pr-process)
+- [Tests](#tests)
+- [Documentation](#documentation)
 - [Getting Help](#getting-help)
 
 ---
 
 ## Code of Conduct
 
-### Nasze Zasady
+### Our Principles
 
-<<<<<<< HEAD
-Projekt ADRION 369 jest zbudowany na **9 Prawach Etycznych**. Oczekujemy od wszystkich kontrybutorów respektowania tych zasad:
-=======
-Projekt ADRION jest zbudowany na **9 Prawach Etycznych**. Oczekujemy od wszystkich kontrybutorów respektowania tych zasad:
->>>>>>> 88b4457 (docs: Add comprehensive ADRION 369 repository documentation)
+The ADRION 369 project is built on **9 Ethical Laws**. We expect all contributors to respect these principles:
 
-#### 🤝 **Prawo 1: Unity - Jedność**
-- Działaj dla wspólnego dobra, nie dla osobistych korzyści
-- Wspieraj inne osoby w zespole
-- Dziel się wiedzą i doświadczeniem
-- Rozwiązuj konflikty konstruktywnie
+#### 🤝 **Law 1: Unity**
+- Act for the common good, not for personal gain
+- Support other team members
+- Share knowledge and experience
+- Resolve conflicts constructively
 
-#### 🧠 **Prawo 2: Truth - Prawda**
-- Bądź szczery w komunikacji i codzie
-- Przyznaj błędy i ucz się z nich
-- Weryfikuj informacje zanim je upubliczniasz
-- Nie manipuluj czy nie kłam
+#### 🧠 **Law 2: Truth**
+- Be honest in communication and code
+- Admit mistakes and learn from them
+- Verify information before publishing it
+- Do not manipulate or lie
 
-#### ⏰ **Prawo 3: Rhythm - Rytm**
-- Pracuj w zdrowych cyklach (nie workoholizm)
-- Szanuj czas innych ludzi
-- Respond w rozsądnym czasie (24-48h)
-- Robienie przerwę jest OK i zachęcane
+#### ⏰ **Law 3: Rhythm**
+- Work in healthy cycles (not workaholism)
+- Respect other people's time
+- Respond within a reasonable time (24-48h)
+- Taking breaks is OK and encouraged
 
-#### ➡️ **Prawo 4: Causality - Przyczynowość**
-- Dokumentuj DLACZEGO, nie tylko CO
-- Wyjaśnij swoją logikę w PR/commitach
-- Bądź odpowiedzialny za swój kod
-- Śledź konsekwencje zmian
+#### ➡️ **Law 4: Causality**
+- Document WHY, not just WHAT
+- Explain your logic in PRs/commits
+- Be accountable for your code
+- Track the consequences of changes
 
-#### 👀 **Prawo 5: Transparency - Przejrzystość**
-- Komunikuj jasno i otwarcie
-- Bądź dostępny dla pytań i reviewu
-- Nie ukrywaj problemów - mów o nich wcześnie
-- Dziel się decyzjami i ich uzasadnieniami
+#### 👀 **Law 5: Transparency**
+- Communicate clearly and openly
+- Be available for questions and review
+- Don't hide problems - talk about them early
+- Share decisions and their justifications
 
-#### 🛡️ **Prawo 6: Nonmaleficence - Nieszkodzenie**
-- Nie złamyj istniejącego kodu bez powodu
-- Testuj przed push
-- Komunikuj breaking changes
-- Minimalizuj ryzyko dla produkcji
+#### 🛡️ **Law 6: Nonmaleficence**
+- Don't break existing code without reason
+- Test before push
+- Communicate breaking changes
+- Minimize risk to production
 
-#### 🗳️ **Prawo 7: Autonomy - Autonomia**
-- Szanuj decyzje inne osób
-- Nie wymuszaj swoich pomysłów
-- Zaakceptuj konstruktywną krytykę
-- Pozwól innym wybrać własną ścieżkę
+#### 🗳️ **Law 7: Autonomy**
+- Respect other people's decisions
+- Don't force your ideas
+- Accept constructive criticism
+- Let others choose their own path
 
-#### ⚖️ **Prawo 8: Justice - Sprawiedliwość**
-- Zwracaj uwagę osobom niedoreprezentowanym
-- Nie dyskryminuj
-- Daj równą szansę wszystkim
-- Będz fair w ocenie wkładu
+#### ⚖️ **Law 8: Justice**
+- Pay attention to underrepresented people
+- Do not discriminate
+- Give everyone an equal chance
+- Be fair in assessing contributions
 
-#### 🌱 **Prawo 9: Sustainability - Zrównoważenie**
-- Pisz kod, który będzie zrozumiały za 2 lata
-- Inwestuj w long-term (nie hack'i)
-- Dbaj o technical debt
-- Pomyśl o przyszłości projektu
+#### 🌱 **Law 9: Sustainability**
+- Write code that will be understandable in 2 years
+- Invest in long-term (not hacks)
+- Take care of technical debt
+- Think about the future of the project
 
-### Konsekwencje Naruszenia
+### Consequences of Violation
 
-Naruszenie tego Code of Conduct może prowadzić do:
-- Uwagi (pierwszy raz)
-- Warningów (powtórzenie)
-- Tymczasowego zawieszenia (poważne naruszenia)
-- Permanentnego zbanowania (powtarzające się naruszenia)
+Violation of this Code of Conduct may lead to:
+- Notice (first time)
+- Warnings (repetition)
+- Temporary suspension (serious violations)
+- Permanent ban (repeated violations)
 
 ---
 
-## Jak Zacząć
+## Getting Started
 
-### 1. Ustaw Środowisko
+### 1. Set Up Environment
 
 ```bash
-# Klonuj repozytorium
+# Clone repository
 git clone https://github.com/yourusername/AI-Agent-OS.git
 cd AI-Agent-OS
 
-# Utwórz virtual environment
+# Create virtual environment
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
-# lub
+# or
 venv\Scripts\activate  # Windows
 
-# Zainstaluj dependencies
+# Install dependencies
 pip install -r requirements.txt
 pip install -r requirements-dev.txt
 
-# Zainstaluj pre-commit hooks
+# Install pre-commit hooks
 pre-commit install
 ```
 
-### 2. Utwórz Branch
+### 2. Create Branch
 
 ```bash
 git checkout -b feature/your-feature-name
 ```
 
-### 3. Rozpocznij Pracę
+### 3. Start Working
 
 ```bash
-# Upewnij się że testy przechodzą
+# Make sure tests pass
 python -m pytest tests/
 
-# Sprawdź linting
+# Check linting
 flake8 adrion/ tests/
 black --check adrion/ tests/
 mypy adrion/
 
-# Formatuj kod
+# Format code
 black adrion/ tests/
 ```
 
 ---
 
-## Proces Kontrybutora
+## Contributor Process
 
-### Kroki:
+### Steps:
 
-1. **Fork** repozytorium
-2. **Clone** swój fork
+1. **Fork** the repository
+2. **Clone** your fork
 3. **Create** feature branch (`git checkout -b feature/amazing-feature`)
-4. **Make** zmiany
-5. **Test** twój kod
-6. **Commit** zmiany (`git commit -m 'Add amazing feature'`)
-7. **Push** do branch (`git push origin feature/amazing-feature`)
+4. **Make** changes
+5. **Test** your code
+6. **Commit** changes (`git commit -m 'Add amazing feature'`)
+7. **Push** to branch (`git push origin feature/amazing-feature`)
 8. **Open** Pull Request
-9. **Respond** na review comments
-10. **Merge** (gdy approved)
+9. **Respond** to review comments
+10. **Merge** (when approved)
 
 ### Diagram:
 
@@ -175,14 +171,14 @@ Your Fork (origin)
 
 ---
 
-## Wytyczne Kodowania
+## Coding Guidelines
 
 ### Python Style
 
-Postępuj zgodnie z **PEP 8** i **Google Python Style Guide**:
+Follow **PEP 8** and **Google Python Style Guide**:
 
 ```python
-# ✓ DOBRY KOD
+# ✓ GOOD CODE
 
 def analyze_perspective(request: Request, timeout: int = 5000) -> AnalysisResult:
     """Analyze request through three perspectives.
@@ -209,7 +205,7 @@ def analyze_perspective(request: Request, timeout: int = 5000) -> AnalysisResult
         raise
 
 
-# ✗ ZŁY KOD
+# ✗ BAD CODE
 
 def analyze(r, t=5000):
     """Analyze."""
@@ -222,23 +218,23 @@ def analyze(r, t=5000):
 
 ### Type Hints
 
-Zawsze używaj type hints:
+Always use type hints:
 
 ```python
-# ✓ DOBRY KOD
+# ✓ GOOD CODE
 def process_task(task_id: str, agent: Agent) -> Task:
     """Process a task."""
     pass
 
-# ✗ ZŁY KOD
+# ✗ BAD CODE
 def process_task(task_id, agent):
     """Process a task."""
     pass
 ```
 
-### Dokumentacja
+### Documentation
 
-Każda funkcja musi mieć **docstring**:
+Every function must have a **docstring**:
 
 ```python
 def calculate_temperature(arousal: float, pleasure: float) -> float:
@@ -267,21 +263,21 @@ def calculate_temperature(arousal: float, pleasure: float) -> float:
     return max(0.1, 1.0 - stress)
 ```
 
-### Nazewnictwo
+### Naming
 
 ```python
-# ✓ DOBRY KOD - jasne i opisowe
+# ✓ GOOD CODE - clear and descriptive
 class TrinityScoringEngine:
     def calculate_material_score(self, analysis: MaterialAnalysis) -> float:
         pass
 
-# ✗ ZŁY KOD - niejasne
+# ✗ BAD CODE - unclear
 class TSE:
     def calc_m_s(self, a):
         pass
 ```
 
-### Struktura Kodu
+### Code Structure
 
 ```
 adrion/
@@ -306,7 +302,7 @@ adrion/
 
 ---
 
-## Struktura Commitów
+## Commit Structure
 
 ### Format
 
@@ -320,19 +316,19 @@ adrion/
 
 ### Types
 
-- `feat`: Nowa funkcjonalność
-- `fix`: Poprawka bugu
-- `docs`: Zmiany dokumentacji
-- `style`: Formatowanie kodu (bez logiki)
-- `refactor`: Refaktoryzacja kodu
-- `perf`: Poprawy performance
-- `test`: Dodanie/modyfikacja testów
-- `chore`: Zmiany toolingu, dependencies
+- `feat`: New feature
+- `fix`: Bug fix
+- `docs`: Documentation changes
+- `style`: Code formatting (no logic)
+- `refactor`: Code refactoring
+- `perf`: Performance improvements
+- `test`: Adding/modifying tests
+- `chore`: Tooling changes, dependencies
 
-### Przykłady
+### Examples
 
 ```bash
-# ✓ DOBRY COMMIT
+# ✓ GOOD COMMIT
 git commit -m "feat(trinity): add material perspective analyzer
 
 - Implement physical_analyzer for CPU/RAM metrics
@@ -342,24 +338,24 @@ git commit -m "feat(trinity): add material perspective analyzer
 
 Fixes #123"
 
-# ✗ ZŁY COMMIT
+# ✗ BAD COMMIT
 git commit -m "fix stuff"
 git commit -m "WIP: random changes"
 ```
 
 ---
 
-## Proces PR
+## PR Process
 
-### Przed Wysłaniem
+### Before Submitting
 
-1. **Rebase** na najnowsze `main`
-2. **Testy** przechodzą lokalnie
-3. **Linting** przechodzą
-4. **Documentation** zaktualizowana
-5. **Changelog** zaktualizowany
+1. **Rebase** on latest `main`
+2. **Tests** pass locally
+3. **Linting** passes
+4. **Documentation** updated
+5. **Changelog** updated
 
-### Checklist PR
+### PR Checklist
 
 ```markdown
 ## Description
@@ -377,12 +373,12 @@ Steps to verify changes:
 2. ...
 
 ## Checklist
-- [ ] Testy napisane i przechodzą
-- [ ] Kod poddany lintingowi
-- [ ] Dokumentacja zaktualizowana
-- [ ] Nie wprowadzam breaking changes (jeśli nie celowo)
-- [ ] Commit messages są czyste
-- [ ] CHANGELOG.md zaktualizowany
+- [ ] Tests written and passing
+- [ ] Code linted
+- [ ] Documentation updated
+- [ ] Not introducing breaking changes (unless intentional)
+- [ ] Commit messages are clean
+- [ ] CHANGELOG.md updated
 
 ## Related Issues
 Fixes #123
@@ -391,41 +387,41 @@ Related to #456
 
 ### Code Review
 
-Gdy ktoś da Ci review comments:
+When someone gives you review comments:
 
-1. **Czytaj uważnie** - starają się Ci pomóc
-2. **Odpowiadaj uprzejmie** - wyjaśniaj swoje podejście
-3. **Implementuj** - wprowadź zmiany szybko
-4. **Re-request review** - gdy skończyłeś
-5. **Dziękuj** - wszyscy pracujemy dla wspólnego dobra
+1. **Read carefully** - they're trying to help you
+2. **Respond politely** - explain your approach
+3. **Implement** - make changes quickly
+4. **Re-request review** - when you're done
+5. **Thank** - we're all working for the common good
 
 ---
 
-## Testy
+## Tests
 
-### Wymagania
+### Requirements
 
 - Minimum 80% code coverage
-- Wszystkie testy muszą przechodzić
-- Nowe funkcje = nowe testy
+- All tests must pass
+- New features = new tests
 
-### Struktura
+### Structure
 
 ```
 tests/
-├── unit/                    # Testowanie funkcji/metod
+├── unit/                    # Testing functions/methods
 │   ├── test_trinity.py
 │   ├── test_hexagon.py
 │   └── test_perspectives.py
-├── integration/            # Testowanie komunikacji
+├── integration/            # Testing communication
 │   ├── test_system_flow.py
 │   └── test_agent_coordination.py
-└── e2e/                   # End-to-end scenariusze
+└── e2e/                   # End-to-end scenarios
     ├── test_complete_request.py
     └── test_emotional_regulation.py
 ```
 
-### Pisanie Testów
+### Writing Tests
 
 ```python
 import pytest
@@ -468,39 +464,39 @@ class TestTrinity:
         assert balance > 0.3  # Should be imbalanced
 ```
 
-### Uruchomienie Testów
+### Running Tests
 
 ```bash
-# Uruchom wszystkie testy
+# Run all tests
 python -m pytest
 
-# Uruchom testy z coverage
+# Run tests with coverage
 python -m pytest --cov=adrion tests/
 
-# Uruchom konkretny test
+# Run specific test
 python -m pytest tests/unit/test_trinity.py::TestTrinity::test_trinity_score_calculation
 
-# Uruchom z verbose output
+# Run with verbose output
 python -m pytest -v
 
-# Uruchom tylko testy integracyjne
+# Run only integration tests
 python -m pytest tests/integration/
 ```
 
 ---
 
-## Dokumentacja
+## Documentation
 
-### Gdzie Dokumentować
+### Where to Document
 
-1. **Code comments** - DLACZEGO, nie CO (kod pokazuje CO)
-2. **Docstrings** - Każda funkcja/klasa
-3. **README** - Ogólny wstęp
-4. **docs/architecture/** - Decyzje architektoniczne (ADRs)
+1. **Code comments** - WHY, not WHAT (code shows WHAT)
+2. **Docstrings** - Every function/class
+3. **README** - General introduction
+4. **docs/architecture/** - Architectural decisions (ADRs)
 5. **docs/tutorials/** - Howto guides
 6. **docs/api-reference/** - API docs
 
-### Przykład Dokumentacji
+### Documentation Example
 
 ```python
 def apply_homeostasis(self, arousal: float, pleasure: float, decay_rate: float = 0.95) -> Tuple[float, float]:
@@ -538,30 +534,30 @@ def apply_homeostasis(self, arousal: float, pleasure: float, decay_rate: float =
 
 ## Getting Help
 
-### Pytania?
+### Questions?
 
 - **Discord**: [Community Server](https://discord.gg/adrion369)
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/AI-Agent-OS/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/AI-Agent-OS/discussions)
 - **Email**: contact@adrion369.ai
 
-### Problemy?
+### Problems?
 
-1. Sprawdź [FAQ](./docs/FAQ.md)
-2. Szukaj w [issuach](https://github.com/yourusername/AI-Agent-OS/issues)
-3. Stwórz nowy issue z szczegółami:
-   - Co chcesz zrobić?
-   - Co się stało?
-   - Jakie błędy?
-   - Jak zreprodukować?
+1. Check the [FAQ](./docs/FAQ.md)
+2. Search in [issues](https://github.com/yourusername/AI-Agent-OS/issues)
+3. Create a new issue with details:
+   - What do you want to do?
+   - What happened?
+   - What errors?
+   - How to reproduce?
 
 ---
 
 ## Acknowledgments
 
-Dziękujemy wszystkim kontrybutorem którzy pracują nad ADRION 369! 
+Thank you to all contributors working on ADRION 369!
 
-Szczególnie dziękujemy inspiracji z:
+Special thanks for inspiration from:
 - Sacred geometry (3-6-9)
 - Philosophy (Plato, Aristotle)
 - Modern AI (Claude, GPT-4)
@@ -572,11 +568,11 @@ Szczególnie dziękujemy inspiracji z:
 
 ## License
 
-Wszystkie contributions są akceptowane na warunkach [MIT License](../LICENSE).
+All contributions are accepted under the terms of the [MIT License](../LICENSE).
 
 ---
 
 **Last updated:** January 2026  
 **Maintainers:** ADRION Core Team
 
-Dziękujemy za bycie częścią naszej społeczności! 🚀
+Thank you for being part of our community! 🚀
