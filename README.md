@@ -1,18 +1,19 @@
-# ADRION 369: Nowy Standard Świadomej Inteligencji
-
-### BLUF: Fundament Etycznej i Przejrzystej AI
-
-**ADRION 369** to zaawansowany system operacyjny dla autonomicznych agentów AI, który zastępuje nieprzejrzyste algorytmy ("black box") matematyczną harmonią geometrii świętej. Wykorzystując rygorystyczną strukturę **3-6-9**, system zapewnia pełną audytowalność, bezpieczeństwo etyczne oraz wielowymiarową analizę każdego procesu decyzyjnego.
+# ADRION 369: New Standard of Conscious Intelligence / Nowy Standard Świadomej Inteligencji
 
 ---
 
-# ADRION 369: Nowy Standard Świadomej Inteligencji
+## 🎯 BLUF: Foundation of Ethical and Transparent AI
 
-### 🎯 BLUF: Fundament Etycznej i Przejrzystej AI
+**ADRION 369** is an advanced operating system for autonomous AI agents that replaces opaque algorithms ("black box") with the **mathematical harmony of sacred geometry**. Using the rigorous **3-6-9 structure**, the system guarantees:
+- ✅ **Full auditability** - every decision is traceable and explainable
+- ✅ **Ethical safety** - 9 inviolable laws protect against abuse
+- ✅ **Multidimensional analysis** - 162 decision dimensions ensure comprehensive reasoning
 
-**ADRION 369** to zaawansowany system operacyjny dla autonomicznych agentów AI, który zastępuje nieprzejrzyste algorytmy ("black box") **matematyczną harmonią geometrii świętej**. 
+> *We are not a "black box." We are a transparent organism that thinks out loud.*
 
-Wykorzystując rygorystyczną strukturę **3-6-9**, system gwarantuje:
+---
+
+**PL**: **ADRION 369** to zaawansowany system operacyjny dla autonomicznych agentów AI, który zastępuje nieprzejrzyste algorytmy ("black box") **matematyczną harmonią geometrii świętej**. Wykorzystując rygorystyczną strukturę **3-6-9**, system gwarantuje:
 - ✅ **Pełną audytowalność** - każda decyzja jest śledzalna i wyjaśnialna
 - ✅ **Bezpieczeństwo etyczne** - 9 niepodważalnych praw chroni przed nadużyciami
 - ✅ **Wielowymiarową analizę** - 162 wymiary decyzyjne zapewniają kompleksowe rozumowanie
@@ -21,9 +22,19 @@ Wykorzystując rygorystyczną strukturę **3-6-9**, system gwarantuje:
 
 ---
 
-## 🔑 Jak to Działa: Wizja 30-Sekundowa
+## 🔑 How It Works: 30-Second Vision / Jak to Działa: Wizja 30-Sekundowa
 
-Każdy request przechodzi przez **trzy etapy równolegle**:
+Every request passes through **three stages in parallel**:
+
+1. **TRINITY (3 perspectives)** - Do we have resources? Is it logical? Does it make sense?
+2. **HEXAGON (6 modes)** - Inventory → Empathy → Organization → Debate → Healing → Action
+3. **GUARDIANS (9 laws)** - Ethical verification: Unity, Truth, Rhythm, Causality, Transparency, Nonmaleficence, Autonomy, Justice, Sustainability
+
+Result: **Decision + Full Justification + Cryptographic Proof of Integrity**
+
+---
+
+**PL**: Każdy request przechodzi przez **trzy etapy równolegle**:
 
 1. **TRINITY (3 perspektywy)** - Czy mamy zasoby? Czy to logiczne? Czy to ma sens?
 2. **HEXAGON (6 trybów)** - Inwentaryzacja → Empatia → Organizacja → Debata → Transmutacja → Działanie
@@ -33,47 +44,98 @@ Wynik: **Decyzja + Pełne Uzasadnienie + Kryptograficzny Dowód Integralności**
 
 ---
 
-## 📊 Dlaczego ADRION 369?
+## 📊 Why ADRION 369? / Dlaczego ADRION 369?
 
-### 1. Matematyczna Harmonia
-Zamiast "magicznych liczb", ADRION używa **modelu EBDI** (Emocjonalny Model Decyzyjny), gdzie emocje to matematyczne wektory:
+### 1. Mathematical Harmony / Matematyczna Harmonia
+
+Instead of "magic numbers," ADRION uses the **EBDI model** (Emotional Decision-Making Intelligence), where emotions are mathematical vectors:
+- **Pleasure** (Acceptance): From -1 (sadness) to +1 (joy)
+- **Arousal** (Stimulation): From 0 (calm) to +1 (excitement)  
+- **Dominance** (Control): From -1 (controlled) to +1 (autonomous)
+
+These vectors **regulate caution and creativity** of decisions - not emotions, but their mathematical representations.
+
+---
+
+**PL**: Zamiast "magicznych liczb", ADRION używa **modelu EBDI** (Emocjonalny Model Decyzyjny), gdzie emocje to matematyczne wektory:
 - **Pleasure** (Przyjemność): Od -1 (smutek) do +1 (radość)
 - **Arousal** (Pobudzenie): Od 0 (spokój) do +1 (ekscytacja)  
 - **Dominance** (Dominacja): Od -1 (kontrola) do +1 (autonomia)
 
-Te wektory **regulują ostrożność i kreatywność** decyzji - nie emocje, ale ich matematyczne reprezenta
+Te wektory **regulują ostrożność i kreatywność** decyzji - nie emocje, ale ich matematyczne reprezentacje.
 
-cje.
+### 2. Full Transparency (Glass Box ≠ Black Box) / Pełna Transparentność
 
-### 2. Pełna Transparentność (Glass Box ≠ Black Box)
+- Every decision is recorded in **Genesis Record** - an immutable ledger
+- Every step is explainable to a third party
+- All inputs, processes, and outputs are available for inspection
+
+---
+
+**PL**: 
 - Każda decyzja jest zapisywana w **Genesis Record** - nienaruszalnym rejestrze
 - Każdy krok jest wyjaśnialny dla trzeciej strony
 - Wszystkie wejścia, procesy i wyjścia są dostępne do inspekcji
 
-### 3. Bezpieczeństwo Przede Wszystkim
+### 3. Security Above All / Bezpieczeństwo Przede Wszystkim
+
+- **Automatic veto** in case of ethics violations
+- AI **cannot** act against your values
+- 2+ law violations = MANDATORY DENIAL with full justification
+
+---
+
+**PL**: 
 - **Automatyczne veto** w przypadku naruszenia etyki
 - AI **nie potrafi** działać wbrew Twoim wartościom
 - 2+ naruszenia praw = ODMOWA z pełnym uzasadnieniem
 
 ---
 
-## 🏗️ Architektura 3-6-9: Trzy Filary Zrozumienia
+## 🏗️ Architecture 3-6-9: Three Pillars of Understanding
 
-System opiera się na trzech geometrycznych osiach, które wspólnie tworzą **162 wymiary decyzyjne**:
+The system is built on three geometric axes that together create **162 decision dimensions**:
 
 ```
-3 (Trinity) × 6 (Hexagon) × 9 (Guardians) = 162 wymiarów
+3 (Trinity) × 6 (Hexagon) × 9 (Guardians) = 162 dimensions
+```
+
+**PL**: System opiera się na trzech geometrycznych osiach, które wspólnie tworzą **162 wymiary decyzyjne**:
+
+```
+3 (Trinity) × 6 (Hexagon) × 9 (Guardians) = 162 wymiary
 ```
 
 ---
 
-## 🔺 FILAR 1: OŚ 3 - Trinity (Trójca Perspektyw)
+## 🔺 PILLAR 1: AXIS 3 - Trinity (Triad of Perspectives)
 
-**Każda decyzja analizowana RÓWNOLEGLE przez trzy niezależne perspektywy**
+**Every decision is analyzed SIMULTANEOUSLY through three independent perspectives**
 
-Zanim AI cokolwiek zrobi, pyta samo siebie trzy pytania jednocześnie:
+Before AI does anything, it asks itself three questions in parallel:
 
-### ❓ Perspektywa 1: MATERIALNA (Czy mamy zasoby?)
+### ❓ Perspective 1: MATERIAL (Do we have resources?)
+
+*Physical reality: CPU, energy, memory, data*
+
+| Analyzer | What it checks | Example |
+|----------|----------------|---------|
+| **Physical** | CPU cores, RAM, GPU, storage | "Do we have 8GB RAM?" |
+| **Energy** | Power consumption, thermal limits | "Will this overheat the system?" |
+| **Information** | Data volume, quality, complexity | "Is data complete?" |
+
+**Synthesis**: Weighted average - if ONE analyzer says "no", the entire perspective fails.
+
+**Decision example**: "Generate 10GB dataset"
+- Physical ✓ (disk has 500GB free)
+- Energy ✓ (GPU can handle it)
+- Information ✓ (schema is known)
+- **RESULT: PASS** → Continue
+
+---
+
+**PL**: **Perspektywa 1: MATERIALNA (Czy mamy zasoby?)**
+
 *Fizyczna realność: CPU, energia, pamięć, dane*
 
 | Analizator | Co Sprawdza | Przykład |
@@ -92,7 +154,28 @@ Zanim AI cokolwiek zrobi, pyta samo siebie trzy pytania jednocześnie:
 
 ---
 
-### ❓ Perspektywa 2: INTELEKTUALNA (Czy to ma sens?)
+### ❓ Perspective 2: INTELLECTUAL (Does this make sense?)
+
+*Logic, authenticity, truth of reasoning*
+
+| Analyzer | What it checks | Example |
+|----------|----------------|---------|
+| **Truth** | Facts, logical consistency, hallucinations | "Is this factually correct?" |
+| **Beauty** | Simplicity (Occam), elegance, efficiency | "Is this the simplest approach?" |
+| **Goodness** | Intent, absence of psychological manipulation | "Is this sincere?" |
+
+**Synthesis**: Harmonic mean (more rigorous) - requires consensus.
+
+**Decision example**: "Replace truth-verification algorithm with random"
+- Truth ✗ (This bypasses security!)
+- Beauty ~ (Simpler, but dangerous)
+- Goodness ✗ (This is manipulation)
+- **RESULT: FAIL** → Decision denied
+
+---
+
+**PL**: **Perspektywa 2: INTELEKTUALNA (Czy to ma sens?)**
+
 *Logika, autentyczność, prawdziwość rozumowania*
 
 | Analizator | Co Sprawdza | Przykład |
