@@ -1,9 +1,9 @@
 # Changelog
 
-Wszystkie znaczące zmiany w projekcie ADRION są dokumentowane tutaj.
+All significant changes to the ADRION project are documented here.
 
-Format jest bazowany na [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-i projekt adheres do [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and the project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
@@ -12,34 +12,34 @@ i projekt adheres do [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Added
 
 #### Core System
-- ✨ **Trinity System** - Implementacja analizy trzech perspektyw (Materialna, Intelektualna, Esencjonalna)
-- ✨ **Hexagon Execution** - Sześć trybów przetwarzania: Inventory, Empathy, Process, Debate, Healing, Action
-- ✨ **Guardians Framework** - Dziewięć niepodważalnych praw etycznych z enforcement
-- ✨ **EBDI Model** - Emotion-Belief-Desire-Intention z wektorami PAD (Pleasure-Arousal-Dominance)
+- ✨ **Trinity System** - Implementation of three perspective analysis (Material, Intellectual, Essential)
+- ✨ **Hexagon Execution** - Six processing modes: Inventory, Empathy, Process, Debate, Healing, Action
+- ✨ **Guardians Framework** - Nine inviolable ethical laws with enforcement
+- ✨ **EBDI Model** - Emotion-Belief-Desire-Intention with PAD vectors (Pleasure-Arousal-Dominance)
 
 #### Perspectives Layer
-- `perspectives/material/` - Analiza zasobów fizycznych, energetycznych, informacyjnych
-- `perspectives/intellectual/` - Weryfikacja prawdziwości, elegancji, dobrego intencji
-- `perspectives/essential/` - Analiza jedności, harmonii, celu
+- `perspectives/material/` - Analysis of physical, energy, and information resources
+- `perspectives/intellectual/` - Verification of truthfulness, elegance, and good intention
+- `perspectives/essential/` - Analysis of unity, harmony, and purpose
 
 #### Modes Layer
-- `modes/inventory/` - Szybka ekstrakcja faktów (max 500ms)
-- `modes/empathy/` - Detekcja emocji użytkownika z PAD mapping
-- `modes/process/` - Dekompozycja zadań i planowanie grafu
+- `modes/inventory/` - Fast fact extraction (max 500ms)
+- `modes/empathy/` - User emotion detection with PAD mapping
+- `modes/process/` - Task decomposition and graph planning
 - `modes/debate/` - Multi-temperature Skeptics Panel (0.1, 0.5, 0.9)
-- `modes/healing/` - Transmutacja zmanipulowanych danych
-- `modes/action/` - Manifestacja z pełnym loggingiem
+- `modes/healing/` - Transmutation of manipulated data
+- `modes/action/` - Manifestation with full logging
 
 #### Laws Layer
-- `laws/unity/` - Weryfikacja wspólnego dobra
-- `laws/truth/` - Sprawdzanie integralności i halucynacji
-- `laws/rhythm/` - Monitoring homeostazy agenta
-- `laws/causality/` - Dokumentacja przyczynowości
-- `laws/transparency/` - Wymuszenie przejrzystości
-- `laws/nonmaleficence/` - Ocena ryzyka szkody
-- `laws/autonomy/` - Weryfikacja zgody użytkownika
-- `laws/justice/` - Sprawiedliwa dystrybucja zasobów
-- `laws/sustainability/` - Długoterminowa zrównoważoność
+- `laws/unity/` - Common good verification
+- `laws/truth/` - Integrity and hallucination checking
+- `laws/rhythm/` - Agent homeostasis monitoring
+- `laws/causality/` - Causality documentation
+- `laws/transparency/` - Transparency enforcement
+- `laws/nonmaleficence/` - Harm risk assessment
+- `laws/autonomy/` - User consent verification
+- `laws/justice/` - Fair resource distribution
+- `laws/sustainability/` - Long-term sustainability
 
 #### Infrastructure
 - 🔧 **AI-Binder** - Zero-copy IPC magistrala z atomic operations
@@ -48,19 +48,19 @@ i projekt adheres do [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - 💾 **PostgreSQL Integration** - Sharded database z read replicas
 
 #### Communication
-- 📡 **SAFE-MCP Protocol** - Wymuszenie uzasadnienia w komunikacji agentów
-- 📨 **Message Bus** - Publish-subscribe system z hierarchicznym routingiem
-- 🌐 **REST API** - Endpoints dla submisji, statusu, metryk
+- 📡 **SAFE-MCP Protocol** - Enforced justification in agent communication
+- 📨 **Message Bus** - Publish-subscribe system with hierarchical routing
+- 🌐 **REST API** - Endpoints for submission, status, and metrics
 
 #### Intelligence Layer
-- 🤖 **Agent Swarm** - Dziewięciu specjalistycznych agentów organizowanych w triady
-- 🎭 **Archetypal Layer** - Cztery archetypy (Sage, Guardian, Rebel, Shadow) z dynamicznym wagowaniem
+- 🤖 **Agent Swarm** - Nine specialized agents organized in triads
+- 🎭 **Archetypal Layer** - Four archetypes (Sage, Guardian, Rebel, Shadow) with dynamic weighting
 - 🧠 **Skeptics Panel** - Multi-temperature debate engine
-- 📈 **Transcendence Loop** - Samoewolucja na podstawie 100 doświadczeń
+- 📈 **Transcendence Loop** - Self-evolution based on 100 experiences
 
 #### Interface
-- 🎨 **Dashboard** - Next.js frontend z real-time updates
-- 💻 **CLI Tool** - Command-line interface dla administracji
+- 🎨 **Dashboard** - Next.js frontend with real-time updates
+- 💻 **CLI Tool** - Command-line interface for administration
 - 📦 **SDK** - Python, TypeScript, Rust libraries
 
 ### Infrastructure
@@ -71,18 +71,18 @@ i projekt adheres do [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - 🛡️ **Hardware Security Module** - Private key storage
 
 ### Documentation
-- 📚 **Architecture Document** - Pełny opis systemu (docs/ARCHITECTURE.md)
-- 📖 **Logic Document** - Matematyczna logika (docs/LOGIC.md)
-- 🚀 **Getting Started Guide** - Quickstart dla nowych deweloperów
-- 📝 **Contributing Guidelines** - Proces kontrybutora z Code of Conduct
-- 🔍 **API Reference** - Dokumentacja wszystkich endpoints
+- 📚 **Architecture Document** - Complete system description (docs/ARCHITECTURE.md)
+- 📖 **Logic Document** - Mathematical logic (docs/LOGIC.md)
+- 🚀 **Getting Started Guide** - Quickstart for new developers
+- 📝 **Contributing Guidelines** - Contributor process with Code of Conduct
+- 🔍 **API Reference** - Documentation of all endpoints
 - 📺 **Video Tutorials** - Step-by-step guides
 
 ### Testing
 - ✅ **Unit Tests** - 80%+ code coverage
-- 🔗 **Integration Tests** - Testy przepływów między warstwami
-- 🎯 **E2E Tests** - Kompletne scenariusze 369
-- 🧪 **Performance Tests** - Benchmarki dla SLA
+- 🔗 **Integration Tests** - Tests for flows between layers
+- 🎯 **E2E Tests** - Complete 369 scenarios
+- 🧪 **Performance Tests** - Benchmarks for SLA
 
 ### Examples
 - 📌 **Basic Agent** - Hello World agent
@@ -90,7 +90,7 @@ i projekt adheres do [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - 🎨 **Creative Assistant** - Multi-agent collaboration
 
 ### Configuration
-- ⚙️ **Environment Variables** - Konfiguracja przez ENV
+- ⚙️ **Environment Variables** - Configuration via ENV
 - 📋 **YAML Config Files** - Development, staging, production profiles
 - 🔐 **Secrets Management** - Safe credential storage
 
@@ -105,11 +105,11 @@ i projekt adheres do [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - ✓ Zero-copy IPC (eliminates memory attack surface)
 - ✓ Immutable Genesis Record (prevents retrospective tampering)
 - ✓ Enforced Laws in code (not documentation)
-- ✓ Kryptograficzne podpisy dla każdej akcji
+- ✓ Cryptographic signatures for every action
 - ✓ GDPR, HIPAA, SOC2 ready
 
 ### License
-- 📜 MIT License z ethical guidelines
+- 📜 MIT License with ethical guidelines
 - 🤝 Community Code of Conduct
 - 📢 9 Fundamental Laws enforcement
 
