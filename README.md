@@ -1,13 +1,5 @@
 # ADRION 369: Nowy Standard Świadomej Inteligencji
 
-### BLUF: Fundament Etycznej i Przejrzystej AI
-
-**ADRION 369** to zaawansowany system operacyjny dla autonomicznych agentów AI, który zastępuje nieprzejrzyste algorytmy ("black box") matematyczną harmonią geometrii świętej. Wykorzystując rygorystyczną strukturę **3-6-9**, system zapewnia pełną audytowalność, bezpieczeństwo etyczne oraz wielowymiarową analizę każdego procesu decyzyjnego.
-
----
-
-# ADRION 369: Nowy Standard Świadomej Inteligencji
-
 ### 🎯 BLUF: Fundament Etycznej i Przejrzystej AI
 
 **ADRION 369** to zaawansowany system operacyjny dla autonomicznych agentów AI, który zastępuje nieprzejrzyste algorytmy ("black box") **matematyczną harmonią geometrii świętej**. 
@@ -41,9 +33,7 @@ Zamiast "magicznych liczb", ADRION używa **modelu EBDI** (Emocjonalny Model Dec
 - **Arousal** (Pobudzenie): Od 0 (spokój) do +1 (ekscytacja)  
 - **Dominance** (Dominacja): Od -1 (kontrola) do +1 (autonomia)
 
-Te wektory **regulują ostrożność i kreatywność** decyzji - nie emocje, ale ich matematyczne reprezenta
-
-cje.
+Te wektory **regulują ostrożność i kreatywność** decyzji - nie emocje, ale ich matematyczne reprezentacje.
 
 ### 2. Pełna Transparentność (Glass Box ≠ Black Box)
 - Każda decyzja jest zapisywana w **Genesis Record** - nienaruszalnym rejestrze
