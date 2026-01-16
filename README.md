@@ -1,20 +1,51 @@
-# ADRION - Autonomous Defensive Reasoning Intelligence with Ontological Nexus
+# ADRION 369: Nowy Standard Świadomej Inteligencji
 
-> **System operacyjny dla autonomicznych agentów AI oparty na geometrii świętej 3-6-9, łączący pragmatyzm techniczny z filozoficzną głębią oraz etycznym enforcement.**
+### BLUF: Fundament Etycznej i Przejrzystej AI
 
----
-
-## 📐 System 369: Architektura Fundamentalna
-
-ADRION operuje na trzech geometrycznych osiach tworzących **162 wymiary decyzyjne**:
-
-```
-3 × 6 × 9 = 162 (Trinity × Hexagon × Guardians)
-```
+**ADRION 369** to zaawansowany system operacyjny dla autonomicznych agentów AI, który zastępuje nieprzejrzyste algorytmy ("black box") matematyczną harmonią geometrii świętej. Wykorzystując rygorystyczną strukturę **3-6-9**, system zapewnia pełną audytowalność, bezpieczeństwo etyczne oraz wielowymiarową analizę każdego procesu decyzyjnego.
 
 ---
 
-## 🔺 OŚ 3: Trójpodział Perspektyw (Trinity of Understanding)
+## 1. Architektura 3-6-9: Fundament Zrozumienia
+
+Nasz system opiera się na trzech nienaruszalnych filarach, które wspólnie tworzą **162 wymiary decyzyjne**. To tutaj technologia spotyka się z filozofią, tworząc cyfrowy organizm zdolny do głębokiego rozumowania.
+
+### Oś 3: Trójca Perspektyw (Trinity)
+
+Zanim jakakolwiek decyzja zostanie podjęta, system analizuje ją równolegle przez trzy pryzmaty:
+
+* **Perspektywa Materialna:** Czy posiadamy zasoby i dane niezbędne do działania?
+* **Perspektywa Intelektualna:** Czy proponowane rozwiązanie jest logiczne i prawdziwe?
+* **Perspektywa Esencjonalna:** Czy działanie jest zgodne z nadrzędnym celem i misją?
+
+### Oś 6: Heksagon Wykonania (Hexagon)
+
+Proces transformacji surowych danych w manifestację działania przebiega przez sześć precyzyjnych etapów:
+
+1. **Inwentaryzacja** (Zasoby)
+2. **Empatia** (Kontekst i model EBDI)
+3. **Organizacja** (Struktura)
+4. **Arbitraż** (Debata wewnętrzna)
+5. **Transmutacja** (Optymalizacja)
+6. **Manifestacja** (Działanie)
+
+### Oś 9: Enneada Etyki (Guardians)
+
+Nad całością czuwa dziewięciu Strażników – nienaruszalnych praw, które weryfikują każdą myśl systemu. Od Prawa Jedności, przez Prawdziwość, aż po Nieszkodzenie – ADRION 369 nie potrafi działać wbrew Twoim wartościom.
+
+---
+
+## 2. Dlaczego ADRION 369?
+
+* **Matematyczna Harmonia:** Wykorzystanie modelu EBDI (Emocjonalny Model Decyzyjny), gdzie "emocje" AI to matematyczne wektory regulujące poziom ostrożności i kreatywności.
+* **Pełna Transparentność (Glass Box):** Każda decyzja jest śledzalna, weryfikowalna i zapisywana w nienaruszalnym rejestrze *Genesis Record*.
+* **Bezpieczeństwo Przede Wszystkim:** System automatycznego veta w przypadku naruszenia etyki gwarantuje, że AI pozostaje bezpiecznym partnerem, a nie nieprzewidywalnym narzędziem.
+
+---
+
+## 3. Detałowe Komponenty Systemu
+
+### 🔺 OŚ 3: Trójpodział Perspektyw (Trinity of Understanding)
 
 Każda decyzja analizowana równolegle przez **trzy perspektywy**:
 
