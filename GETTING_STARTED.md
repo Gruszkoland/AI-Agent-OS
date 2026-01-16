@@ -1,6 +1,6 @@
-# ADRION 369 - Getting Started Guide
+# ADRION - Getting Started Guide
 
-> Jak szybko zacząć pracę z ADRION 369
+> Jak szybko zacząć pracę z ADRION
 
 ---
 

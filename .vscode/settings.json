@@ -1,0 +1,20 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git rebase --continue$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git rebase --abort$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git push origin main --force$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git ls-tree -r HEAD$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

@@ -1,6 +1,6 @@
-# ADRION 369 - Architektura Systemu (Pełny Opis)
+# ADRION - Architektura Systemu (Pełny Opis)
 
-> Komprehensywny przewodnik po strukturze, komponentach i przepływach ADRION 369
+> Komprehensywny przewodnik po strukturze, komponentach i przepływach ADRION - Autonomous Defensive Reasoning Intelligence with Ontological Nexus
 
 ## 📋 Spis Treści
 

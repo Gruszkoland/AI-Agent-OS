@@ -1,6 +1,6 @@
 # Changelog
 
-Wszystkie znaczące zmiany w projekcie ADRION 369 są dokumentowane tutaj.
+Wszystkie znaczące zmiany w projekcie ADRION są dokumentowane tutaj.
 
 Format jest bazowany na [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 i projekt adheres do [Semantic Versioning](https://semver.org/spec/v2.0.0.html).

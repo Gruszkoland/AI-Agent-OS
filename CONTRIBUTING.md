@@ -1,6 +1,6 @@
-# Contributing to ADRION 369
+# Contributing to ADRION
 
-Dziękujemy za zainteresowanie udziałem w projekcie ADRION 369! 🙏
+Dziękujemy za zainteresowanie udziałem w projekcie ADRION! 🙏
 
 ---
 
@@ -22,7 +22,11 @@ Dziękujemy za zainteresowanie udziałem w projekcie ADRION 369! 🙏
 
 ### Nasze Zasady
 
+<<<<<<< HEAD
 Projekt ADRION 369 jest zbudowany na **9 Prawach Etycznych**. Oczekujemy od wszystkich kontrybutorów respektowania tych zasad:
+=======
+Projekt ADRION jest zbudowany na **9 Prawach Etycznych**. Oczekujemy od wszystkich kontrybutorów respektowania tych zasad:
+>>>>>>> 88b4457 (docs: Add comprehensive ADRION 369 repository documentation)
 
 #### 🤝 **Prawo 1: Unity - Jedność**
 - Działaj dla wspólnego dobra, nie dla osobistych korzyści

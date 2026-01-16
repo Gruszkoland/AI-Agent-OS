@@ -1,4 +1,4 @@
-# ADRION 369 - Logika Systemu (Koncepcja)
+# ADRION - Logika Systemu (Koncepcja)
 
 > **Maksymalnie 25 słów na punkt | Bez przykładów | Czysta logika**
 
@@ -7,7 +7,7 @@
 ## 1. FUNDAMENT SYSTEMU
 
 ### 1.1 Wizja Architektoniczna
-System operacyjny dla autonomicznych agentów AI oparty na geometrii świętej 3-6-9, łączący pragmatyzm techniczny z filozoficzną głębią oraz etycznym enforcement.
+ADRION - system operacyjny dla autonomicznych agentów AI oparty na geometrii świętej 3-6-9, łączący pragmatyzm techniczny z filozoficzną głębią oraz etycznym enforcement.
 
 ### 1.2 Zasada 3-6-9
 Trzy perspektywy analizy mnożone przez sześć trybów przetwarzania nadzorowane przez dziewięć niepodważalnych praw tworzą 162 wymiary decyzyjne systemu.
@@ -256,7 +256,11 @@ Unikalna zdolność transmutacji zmanipulowanych danych w czystą formę. Izolac
 
 ## Podsumowanie Esencji
 
+<<<<<<< HEAD
 **System ADRION 369 to:**
+=======
+**System ADRION to:**
+>>>>>>> 88b4457 (docs: Add comprehensive ADRION 369 repository documentation)
 
 Cyfrowy organizm operujący 162 wymiarach decyzyjnych gdzie emocje regulują ostrożność perspektywy zapewniają kompletność tryby transformują chaos prawa wymuszają etykę logowane.
 
