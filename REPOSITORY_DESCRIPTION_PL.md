@@ -209,7 +209,7 @@ c:/Users/adiha/Documents/GitHub/AI-Agent-OS/
 
 ```bash
 # Klonuj repo
-git clone https://github.com/yourusername/AI-Agent-OS.git
+git clone https://github.com/Gruszkoland/AI-Agent-OS.git
 cd AI-Agent-OS
 
 # Przeczytaj wstęp
@@ -221,7 +221,7 @@ cat GETTING_STARTED.md
 
 ### Online (na GitHub)
 
-1. Otwórz https://github.com/yourusername/AI-Agent-OS
+1. Otwórz https://github.com/Gruszkoland/AI-Agent-OS
 2. README.md jest wyświetlany automatycznie
 3. Linki do innych docs są w README
 4. Wszystkie docs w `docs/` folderze

@@ -18,7 +18,7 @@ git --version        # Git 2.25+
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Agent-OS.git
+git clone https://github.com/Gruszkoland/AI-Agent-OS.git
 cd AI-Agent-OS
 ```
 
@@ -243,7 +243,7 @@ python scripts/verify_genesis_chain.py
 | "What is Hexagon logic?" | [docs/LOGIC.md](docs/LOGIC.md#4-axis-6-execution-modes) |
 | "What are the 9 Laws?" | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#5-guardians---nine-laws-system) |
 | "How to contribute?" | [CONTRIBUTING.md](CONTRIBUTING.md) |
-| "What's wrong?" | [GitHub Issues](https://github.com/yourusername/AI-Agent-OS/issues) |
+| "What's wrong?" | [GitHub Issues](https://github.com/Gruszkoland/AI-Agent-OS/issues) |
 
 ### Add Your Documentation
 
@@ -450,7 +450,7 @@ A: Yes! The only dependency is the database (PostgreSQL). You can work offline w
 ## 📞 Support
 
 - **Discord**: [Community Server](https://discord.gg/adrion369)
-- **GitHub**: [Issues & Discussions](https://github.com/yourusername/AI-Agent-OS)
+- **GitHub**: [Issues & Discussions](https://github.com/Gruszkoland/AI-Agent-OS)
 - **Email**: contact@adrion369.ai
 
 ---
@@ -461,7 +461,7 @@ A: Yes! The only dependency is the database (PostgreSQL). You can work offline w
 2. ✅ Run tests
 3. ✅ Read [ARCHITECTURE.md](docs/ARCHITECTURE.md)
 4. ✅ Read [CONTRIBUTING.md](CONTRIBUTING.md)
-5. 🔄 Check [open issues](https://github.com/yourusername/AI-Agent-OS/issues)
+5. 🔄 Check [open issues](https://github.com/Gruszkoland/AI-Agent-OS/issues)
 6. 🚀 Create your first PR!
 
 ---
