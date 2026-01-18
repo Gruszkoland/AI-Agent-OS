@@ -94,7 +94,7 @@ Violation of this Code of Conduct may lead to:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/AI-Agent-OS.git
+git clone https://github.com/Gruszkoland/AI-Agent-OS.git
 cd AI-Agent-OS
 
 # Create virtual environment
@@ -537,14 +537,14 @@ def apply_homeostasis(self, arousal: float, pleasure: float, decay_rate: float =
 ### Questions?
 
 - **Discord**: [Community Server](https://discord.gg/adrion369)
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/AI-Agent-OS/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/AI-Agent-OS/discussions)
+- **GitHub Issues**: [Create an issue](https://github.com/Gruszkoland/AI-Agent-OS/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Gruszkoland/AI-Agent-OS/discussions)
 - **Email**: contact@adrion369.ai
 
 ### Problems?
 
 1. Check the [FAQ](./docs/FAQ.md)
-2. Search in [issues](https://github.com/yourusername/AI-Agent-OS/issues)
+2. Search in [issues](https://github.com/Gruszkoland/AI-Agent-OS/issues)
 3. Create a new issue with details:
    - What do you want to do?
    - What happened?

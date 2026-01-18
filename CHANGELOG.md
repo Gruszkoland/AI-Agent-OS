@@ -191,8 +191,8 @@ MAJOR.MINOR.PATCH-PRERELEASE
 
 ### Reporting Issues
 
-- [GitHub Issues](https://github.com/yourusername/AI-Agent-OS/issues)
-- [GitHub Discussions](https://github.com/yourusername/AI-Agent-OS/discussions)
+- [GitHub Issues](https://github.com/Gruszkoland/AI-Agent-OS/issues)
+- [GitHub Discussions](https://github.com/Gruszkoland/AI-Agent-OS/discussions)
 - [Discord Community](https://discord.gg/adrion369)
 
 ---
