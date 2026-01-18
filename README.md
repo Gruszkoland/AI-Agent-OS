@@ -1,4 +1,4 @@
-# ADRION 369: New Standard of Conscious Intelligence
+# ADRION 369 - Autonomous Defensive Reasoning Intelligence with Ontological Nexus
 
 **ADRION 369** - *Autonomous Defensive Reasoning Intelligence with Ontological Nexus*
 
