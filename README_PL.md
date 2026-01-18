@@ -1,7 +1,5 @@
 # ADRION 369 - Autonomous Defensive Reasoning Intelligence with Ontological Nexus
 
-**ADRION 369** - *Autonomous Defensive Reasoning Intelligence with Ontological Nexus*
-
 > 🌐 **[English version / Wersja angielska](README.md)**
 
 ## 🎯 BLUF: Fundament Etycznej i Przejrzystej AI
