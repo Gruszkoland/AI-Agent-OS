@@ -1,21 +1,21 @@
 # ADRION - Getting Started Guide
 
-> Jak szybko zacząć pracę z ADRION
+> How to quickly get started with ADRION
 
 ---
 
-## 🚀 5-Minutowy Quickstart
+## 🚀 5-Minute Quickstart
 
-### 1. Wymagania Wstępne
+### 1. Prerequisites
 
 ```bash
-# Sprawdź wersje
+# Check versions
 python --version      # Python 3.10+
 docker --version      # Docker 20.10+
 git --version        # Git 2.25+
 ```
 
-### 2. Klonuj Repozytorium
+### 2. Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/AI-Agent-OS.git
@@ -25,69 +25,69 @@ cd AI-Agent-OS
 ### 3. Setup Python Environment
 
 ```bash
-# Utwórz virtual environment
+# Create virtual environment
 python -m venv venv
 
-# Aktywuj (Linux/Mac)
+# Activate (Linux/Mac)
 source venv/bin/activate
 
-# Aktywuj (Windows)
+# Activate (Windows)
 venv\Scripts\activate
 
-# Zainstaluj dependencies
+# Install dependencies
 pip install -r requirements.txt
 ```
 
 ### 4. Start Database
 
 ```bash
-# Uruchom PostgreSQL w Docker
+# Run PostgreSQL in Docker
 docker-compose up -d postgres
 
-# Czekaj na uruchomienie (~5s)
+# Wait for startup (~5s)
 sleep 5
 
-# Utwórz schemę bazy
+# Create database schema
 python scripts/setup_db.py
 ```
 
-### 5. Uruchom Testy
+### 5. Run Tests
 
 ```bash
-# Sprawdź czy wszystko działa
+# Check if everything works
 python -m pytest tests/ -v
 ```
 
-**Done! ✓** Jesteś gotowy do pracy.
+**Done! ✓** You're ready to work.
 
 ---
 
-## 📚 Struktura Projektu
+## 📚 Project Structure
 
 ```
 AI-Agent-OS/
 │
 ├── 📄 README.md              ← START HERE
-├── 📄 CONTRIBUTING.md        ← Jak kontrybuować
+├── 📄 CONTRIBUTING.md        ← How to contribute
 │
-├── 📁 adrion/                ← Główny kod
+├── 📁 adrion/                ← Main code
 │   ├── core/                 ← Trinity, Hexagon, Guardians
-│   ├── perspectives/         ← Analiza
-│   ├── modes/                ← Wykonanie
-│   ├── laws/                 ← Etyka
+│   ├── perspectives/         ← Analysis
+│   ├── modes/                ← Execution
+│   ├── laws/                 ← Ethics
 │   └── ...
 │
-├── 📁 tests/                 ← Testy
+├── 📁 tests/                 ← Tests
 │   ├── unit/
 │   ├── integration/
 │   └── e2e/
 │
-├── 📁 docs/                  ← Dokumentacja
-│   ├── ARCHITECTURE.md       ← Pełny opis systemu
-│   ├── LOGIC.md             ← Logika matematyczna
+├── 📁 docs/                  ← Documentation
+│   ├── ARCHITECTURE.md       ← Full system description
+│   ├── LOGIC.md             ← Mathematical logic
 │   └── tutorials/
 │
-└── 📁 scripts/              ← Skrypty pomocnicze
+└── 📁 scripts/              ← Helper scripts
     ├── setup_db.py
     ├── run_tests.sh
     └── deploy.sh
@@ -95,24 +95,24 @@ AI-Agent-OS/
 
 ---
 
-## 🎯 Twoja Pierwsza Zmiana
+## 🎯 Your First Change
 
-### Scenario: "Chcę poprawić dokumentację w Trinity"
+### Scenario: "I want to improve Trinity documentation"
 
-#### Krok 1: Utwórz Feature Branch
+#### Step 1: Create Feature Branch
 
 ```bash
 git checkout -b docs/improve-trinity-documentation
 ```
 
-#### Krok 2: Zrób Zmiany
+#### Step 2: Make Changes
 
-Edytuj plik:
+Edit file:
 ```
 adrion/core/trinity.py
 ```
 
-Dodaj lepszy komentarz:
+Add better comment:
 ```python
 def calculate_score(self, material: float, intellectual: float, essential: float) -> float:
     """Calculate Trinity score from three perspectives.
@@ -137,14 +137,14 @@ def calculate_score(self, material: float, intellectual: float, essential: float
     """
 ```
 
-#### Krok 3: Testy
+#### Step 3: Tests
 
 ```bash
-# Uruchom testy aby upewnić się że nic nie złamałeś
+# Run tests to make sure nothing broke
 python -m pytest tests/unit/test_trinity.py -v
 ```
 
-#### Krok 4: Commit
+#### Step 4: Commit
 
 ```bash
 git add adrion/core/trinity.py
@@ -157,22 +157,22 @@ git commit -m "docs(trinity): improve score calculation documentation
 Helps developers understand Trinity algorithm."
 ```
 
-#### Krok 5: Push i PR
+#### Step 5: Push and PR
 
 ```bash
-# Wyślij do GitHub
+# Push to GitHub
 git push origin docs/improve-trinity-documentation
 
-# Przejdź na GitHub i otwórz Pull Request
-# Wypełnij PR template
-# Poczekaj na review
+# Go to GitHub and open Pull Request
+# Fill out PR template
+# Wait for review
 ```
 
 ---
 
-## 🔧 Wspólne Zadania
+## 🔧 Common Tasks
 
-### Uruchom Konkretny Test
+### Run Specific Test
 
 ```bash
 # Test Trinity
@@ -181,11 +181,11 @@ python -m pytest tests/unit/test_trinity.py -v
 # Test Hexagon
 python -m pytest tests/unit/test_hexagon.py::TestHexagon::test_mode_sequencing -v
 
-# Wszystkie testy w folderze
+# All tests in folder
 python -m pytest tests/unit/ -v
 ```
 
-### Sprawdź Code Quality
+### Check Code Quality
 
 ```bash
 # Linting
@@ -194,14 +194,14 @@ flake8 adrion/ tests/
 # Type checking
 mypy adrion/
 
-# Formatowanie kodu
+# Code formatting
 black adrion/ tests/
 
-# Wszystko razem
+# Everything together
 pre-commit run --all-files
 ```
 
-### Uruchom Aplikację Lokalnie
+### Run Application Locally
 
 ```bash
 # Terminal 1: Database
@@ -216,79 +216,79 @@ npm install
 npm run dev
 ```
 
-Otwórz: http://localhost:3000
+Open: http://localhost:3000
 
-### Sprawdź Genesis Record
+### Check Genesis Record
 
 ```bash
-# Pokaż wszystkie logi
+# Show all logs
 python scripts/query_genesis.py --limit 100
 
-# Pokaż logi agenta
+# Show agent logs
 python scripts/query_genesis.py --agent Agent_Developer
 
-# Weryfikuj integralność
+# Verify integrity
 python scripts/verify_genesis_chain.py
 ```
 
 ---
 
-## 📖 Dokumentacja
+## 📖 Documentation
 
-### Gdzie Znaleźć Odpowiedzi
+### Where to Find Answers
 
-| Pytanie | Dokument |
+| Question | Document |
 |---------|----------|
-| "Jak działa Trinity?" | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#3-trinity---system-trzech-perspektyw) |
-| "Jaka jest Hexagon logika?" | [docs/LOGIC.md](docs/LOGIC.md#4-oś-6-tryby-wykonania) |
-| "Jakie są 9 Praw?" | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#5-guardians---system-dziewięciu-praw) |
-| "Jak kontrybuować?" | [CONTRIBUTING.md](CONTRIBUTING.md) |
-| "Co jest nie tak?" | [GitHub Issues](https://github.com/yourusername/AI-Agent-OS/issues) |
+| "How does Trinity work?" | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#3-trinity---three-perspectives-system) |
+| "What is Hexagon logic?" | [docs/LOGIC.md](docs/LOGIC.md#4-axis-6-execution-modes) |
+| "What are the 9 Laws?" | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#5-guardians---nine-laws-system) |
+| "How to contribute?" | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| "What's wrong?" | [GitHub Issues](https://github.com/yourusername/AI-Agent-OS/issues) |
 
-### Dodaj Swoją Dokumentację
+### Add Your Documentation
 
 ```bash
-# Stwórz nowy dokument
+# Create new document
 touch docs/tutorials/how-to-create-agent.md
 
-# Struktura
-# - Wstęp (czym jest, po co)
-# - Prerequisites (co trzeba)
-# - Step-by-step (kroki)
-# - Examples (przykłady)
-# - Troubleshooting (co może być nie tak)
+# Structure
+# - Introduction (what it is, why)
+# - Prerequisites (what's needed)
+# - Step-by-step (steps)
+# - Examples (examples)
+# - Troubleshooting (what can go wrong)
 ```
 
 ---
 
 ## 🐛 Debugging
 
-### Zobacz Logi
+### View Logs
 
 ```bash
-# Tail aplikacji
+# Tail application
 tail -f logs/application.log
 
-# Pokaż ostatnie 50 linii z error'em
+# Show last 50 lines with errors
 grep ERROR logs/application.log | tail -50
 
-# Pokaż wszystkie debug messages
+# Show all debug messages
 grep DEBUG logs/application.log
 ```
 
-### Włącz Debug Mode
+### Enable Debug Mode
 
 ```python
-# W kodzie
+# In code
 import logging
 logging.basicConfig(level=logging.DEBUG)
 
-# Lub via environment variable
+# Or via environment variable
 export ADRION_DEBUG=true
 python -m adrion_369 --config config/development.yaml
 ```
 
-### Debugowanie w IDE
+### Debugging in IDE
 
 **VS Code:**
 ```json
@@ -314,10 +314,10 @@ python -m adrion_369 --config config/development.yaml
 ### Development
 
 ```bash
-# Uruchom z dev config
+# Run with dev config
 python -m adrion_369 --config config/development.yaml
 
-# Lub z auto-reload
+# Or with auto-reload
 watchmedo auto-restart -d . -p '*.py' -- python -m adrion_369
 ```
 
@@ -327,13 +327,13 @@ watchmedo auto-restart -d . -p '*.py' -- python -m adrion_369
 # Build Docker image
 docker build -t adrion369:latest .
 
-# Uruchom container
+# Run container
 docker-compose -f docker-compose.prod.yml up -d
 
-# Sprawdź status
+# Check status
 docker-compose -f docker-compose.prod.yml ps
 
-# Logi
+# Logs
 docker-compose -f docker-compose.prod.yml logs -f
 ```
 
@@ -343,35 +343,35 @@ docker-compose -f docker-compose.prod.yml logs -f
 # Deploy
 kubectl apply -f k8s/
 
-# Sprawdź status
+# Check status
 kubectl get pods -n adrion
 
-# Logi
+# Logs
 kubectl logs -n adrion deployment/adrion-core
 ```
 
 ---
 
-## 💡 Porady
+## 💡 Tips
 
-### Pracuj Efektywnie
+### Work Efficiently
 
-1. **Testy NAJPIERW** - Pisz test zanim kod
-2. **Małe commity** - Łatwiej do review
-3. **Dokumentuj jak piszesz** - Nie na końcu
-4. **Pytaj wtedy gdy nie wiesz** - To OK!
-5. **Review innych kodu** - Ucz się od innych
+1. **Tests FIRST** - Write test before code
+2. **Small commits** - Easier to review
+3. **Document as you write** - Not at the end
+4. **Ask when you don't know** - It's OK!
+5. **Review others' code** - Learn from others
 
 ### Workspace Setup
 
 ```bash
-# Zainstaluj VS Code extensions
+# Install VS Code extensions
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension eamodio.gitlens
 code --install-extension ms-vscode.makefile-tools
 
-# Zainstaluj pre-commit hooks
+# Install pre-commit hooks
 pre-commit install
 
 # Setup git config
@@ -383,54 +383,54 @@ git config --local user.email "your@email.com"
 
 ## ❓ FAQ
 
-### Q: Co jeśli testy mi się nie przechodzą?
+### Q: What if tests don't pass?
 
 A: 
 ```bash
-# 1. Upewnij się że jesteś na main
+# 1. Make sure you're on main
 git checkout main
 
-# 2. Pull najnowsze zmiany
+# 2. Pull latest changes
 git pull origin main
 
-# 3. Instancja dependencies
+# 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Uruchom testy
+# 4. Run tests
 python -m pytest tests/ -v
 
-# 5. Jeśli dalej problem - otwórz issue
+# 5. If still problem - open issue
 ```
 
-### Q: Jaka jest maksymalna temperatura w Debate?
+### Q: What is the maximum temperature in Debate?
 
-A: Maksymalna temperatura to **0.9** (creative mode). Predefiniowane temperatury to:
+A: Maximum temperature is **0.9** (creative mode). Predefined temperatures are:
 - 0.1 (conservative/paranoid)
 - 0.5 (balanced/pragmatic)  
 - 0.9 (creative/optimistic)
 
-### Q: Czy mogę modyfikować 9 Praw?
+### Q: Can I modify the 9 Laws?
 
-A: **NIE**. Prawa są fundamentalne do systemu. Mogą być tylko reinterpretowane, nie zmieniane.
+A: **NO**. Laws are fundamental to the system. They can only be reinterpreted, not changed.
 
-### Q: Jak długo powinny brać testy?
+### Q: How long should tests take?
 
 A: 
-- Unit testy: < 1 sekunda
-- Integration testy: 5-10 sekund
-- E2E testy: 30+ sekund
+- Unit tests: < 1 second
+- Integration tests: 5-10 seconds
+- E2E tests: 30+ seconds
 
-Jeśli są wolniejsze - masz problem z wydajnością.
+If they're slower - you have a performance problem.
 
-### Q: Czy mogę offline pracować?
+### Q: Can I work offline?
 
-A: Tak! Jedyna zależność to baza danych (PostgreSQL). Możesz pracować offline z localnym DB w Docker.
+A: Yes! The only dependency is the database (PostgreSQL). You can work offline with a local DB in Docker.
 
 ---
 
-## 🎓 Nauka
+## 🎓 Learning
 
-### Zasoby
+### Resources
 
 - [Sacred Geometry 369](https://en.wikipedia.org/wiki/3%E2%80%936%E2%80%939)
 - [Platonic Trinity](https://www.britannica.com/topic/Platonism)
@@ -438,7 +438,7 @@ A: Tak! Jedyna zależność to baza danych (PostgreSQL). Możesz pracować offli
 - [Distributed Systems](https://martin.kleppmann.com/)
 - [System Design](https://www.youtube.com/c/SystemDesignInterview)
 
-### Kursy
+### Courses
 
 - 📺 System Design Fundamentals
 - 📚 Distributed Consensus
@@ -447,7 +447,7 @@ A: Tak! Jedyna zależność to baza danych (PostgreSQL). Możesz pracować offli
 
 ---
 
-## 📞 Wsparcie
+## 📞 Support
 
 - **Discord**: [Community Server](https://discord.gg/adrion369)
 - **GitHub**: [Issues & Discussions](https://github.com/yourusername/AI-Agent-OS)
@@ -455,21 +455,21 @@ A: Tak! Jedyna zależność to baza danych (PostgreSQL). Możesz pracować offli
 
 ---
 
-## Następne Kroki
+## Next Steps
 
-1. ✅ Setup lokalny environment
-2. ✅ Uruchom testy
-3. ✅ Przeczytaj [ARCHITECTURE.md](docs/ARCHITECTURE.md)
-4. ✅ Przeczytaj [CONTRIBUTING.md](CONTRIBUTING.md)
-5. 🔄 Zajrzyj do [open issues](https://github.com/yourusername/AI-Agent-OS/issues)
-6. 🚀 Stwórz swój pierwszy PR!
+1. ✅ Setup local environment
+2. ✅ Run tests
+3. ✅ Read [ARCHITECTURE.md](docs/ARCHITECTURE.md)
+4. ✅ Read [CONTRIBUTING.md](CONTRIBUTING.md)
+5. 🔄 Check [open issues](https://github.com/yourusername/AI-Agent-OS/issues)
+6. 🚀 Create your first PR!
 
 ---
 
 **Happy coding! 🎉**
 
-Jesteś teraz gotowy by pracować nad ADRION 369.  
-Dziękujemy za bycie częścią naszej misji! 🙏
+You're now ready to work on ADRION 369.  
+Thank you for being part of our mission! 🙏
 
 ---
 

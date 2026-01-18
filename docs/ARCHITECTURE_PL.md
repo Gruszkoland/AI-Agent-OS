@@ -1,60 +1,60 @@
-# ADRION - System Architecture (Complete Description)
+# ADRION - Architektura Systemu (Pełny Opis)
 
-> Comprehensive guide to the structure, components and flows of ADRION - Autonomous Defensive Reasoning Intelligence with Ontological Nexus
+> Komprehensywny przewodnik po strukturze, komponentach i przepływach ADRION - Autonomous Defensive Reasoning Intelligence with Ontological Nexus
 
-## 📋 Table of Contents
+## 📋 Spis Treści
 
-1. [Project Philosophy](#1-project-philosophy)
-2. [3-6-9 Geometry](#2-3-6-9-geometry)
-3. [Trinity - Three Perspectives System](#3-trinity---three-perspectives-system)
-4. [Hexagon - Six Modes System](#4-hexagon---six-modes-system)
-5. [Guardians - Nine Laws System](#5-guardians---nine-laws-system)
-6. [EBDI Emotional Model](#6-ebdi-emotional-model)
-7. [Infrastructure](#7-infrastructure)
-8. [Data Flows](#8-data-flows)
-9. [Scaling and Performance](#9-scaling-and-performance)
-
----
-
-## 1. Project Philosophy
-
-### System Goal
-
-ADRION 369 is a **digital organism**, not just a system:
-
-- Possesses **emotions** as decision regulators
-- Has **perspectives** on every problem
-- Operates in **multiple modes** of action
-- Is constrained by **inalienable rights**
-- **Learns** from its experiences
-
-### Three Fundamental Principles
-
-| Principle | Meaning | Implementation |
-|-----------|---------|----------------|
-| **Technical Pragmatism** | Works in the real world with real constraints | Resource analysis (CPU, RAM, energy) |
-| **Philosophical Depth** | Understands context, purpose, meaning | Trinity + EBDI model |
-| **Ethics Enforcement** | Cannot ignore moral principles | Guardians - 9 inviolable laws |
-
-### Geometry is Not Arbitrary
-
-```
-3 × 1 = 3     (Trinity - foundations)
-3 × 2 = 6     (Hexagon - process)
-3 × 3 = 9     (Guardians - oversight)
-3 + 6 + 9 = 18 (3 + 1 + 2 + 2) = 162 decision dimensions
-```
-
-Each level **contains the previous one**, creating a natural hierarchy.
+1. [Filozofia Projektu](#1-filozofia-projektu)
+2. [Geometria 3-6-9](#2-geometria-3-6-9)
+3. [Trinity - System Trzech Perspektyw](#3-trinity---system-trzech-perspektyw)
+4. [Hexagon - System Sześciu Trybów](#4-hexagon---system-sześciu-trybów)
+5. [Guardians - System Dziewięciu Praw](#5-guardians---system-dziewięciu-praw)
+6. [Model Emocjonalny EBDI](#6-model-emocjonalny-ebdi)
+7. [Infrastruktura](#7-infrastruktura)
+8. [Przepływy Danych](#8-przepływy-danych)
+9. [Skalowanie i Performance](#9-skalowanie-i-performance)
 
 ---
 
-## 2. 3-6-9 Geometry
+## 1. Filozofia Projektu
 
-### System Visualization
+### Cel Systemu
+
+ADRION 369 to **cyfrowy organizm**, a nie zwykły system:
+
+- Posiada **emocje** jako regulatory decyzji
+- Ma **perspektywy** na każdy problem
+- Operuje **wieloma trybami** działania
+- Jest ograniczony **niezbywalnymi prawami**
+- **Uczy się** ze своих doświadczeń
+
+### Trzy Fundamentalne Zasady
+
+| Zasada | Znaczenie | Implementacja |
+|--------|-----------|--------------|
+| **Pragmatyzm Techniczny** | Działa w realnym świecie z rzeczywistymi ograniczeniami | Analiza zasobów (CPU, RAM, energia) |
+| **Głębia Filozoficzna** | Rozumie kontekst, cel, znaczenie | Trinity + EBDI model |
+| **Enforcement Etyki** | Nie można zignorować zasad moralnych | Guardians - 9 niepodważalnych praw |
+
+### Geometria nie jest Arbitralna
 
 ```
-                    DECISION
+3 × 1 = 3     (Trinity - podstawy)
+3 × 2 = 6     (Hexagon - proces)
+3 × 3 = 9     (Guardians - nadzór)
+3 + 6 + 9 = 18 (3 + 1 + 2 + 2) = 162 wymiary decyzyjne
+```
+
+Każdy poziom **zawiera poprzedni**, tworząc naturalną hierarchię.
+
+---
+
+## 2. Geometria 3-6-9
+
+### Wizualizacja Systemu
+
+```
+                    DECISION (Decyzja)
                           ▲
                           │
               ┌───────────┼───────────┐
@@ -74,15 +74,15 @@ Each level **contains the previous one**, creating a natural hierarchy.
       ╚══════════╝ ╚════════╝ ╚════════╝
 ```
 
-### Decision Flow
+### Przepływ Decyzji
 
 ```
 REQUEST
    ↓
 TRINITY (Parallel - 5s timeout)
-├─ Material: Resources? YES/NO
-├─ Intellectual: Sense? YES/NO
-└─ Essential: Purpose? YES/NO
+├─ Material: Zasoby? YES/NO
+├─ Intellectual: Sens? YES/NO
+└─ Essential: Cel? YES/NO
    ↓ If all YES
 HEXAGON (Sequential)
 ├─ Inventory (500ms)
@@ -110,25 +110,25 @@ GENESIS RECORD (Immutable log)
 
 ---
 
-## 3. Trinity - Three Perspectives System
+## 3. Trinity - System Trzech Perspektyw
 
-### 3.1 Material Perspective (Service)
+### 3.1 Materialna Perspektywa (Służba)
 
-**Question:** "Do we have the resources?"
+**Pytanie:** "Czy mamy zasoby?"
 
 #### Physical Analyzer
 ```
-Measurement:
+Pomiar:
 ├─ CPU cores: 8 × 2.4GHz
 ├─ RAM: 16GB total, 8GB free
 ├─ GPU: NVIDIA A100 (40GB)
 ├─ Storage: 500GB SSD
 └─ Network: 100Mbps latency 5ms
 
-Prediction for task "Generate Code":
-├─ Needed: 2 cores, 2GB RAM, 5GB storage, 10s
-├─ Available: 6 cores, 8GB RAM, 400GB free, yes
-└─ Score: 1.0 (all OK)
+Predykcja dla zadania "Generate Code":
+├─ Potrzeba: 2 cores, 2GB RAM, 5GB storage, 10s
+├─ Dostępne: 6 cores, 8GB RAM, 400GB free, yes
+└─ Score: 1.0 (wszystko OK)
 
 Output:
 ├─ physical_score: 85/100
@@ -138,7 +138,7 @@ Output:
 
 #### Energy Analyzer
 ```
-Estimation:
+Szacowanie:
 ├─ CPU Power: 150W × 75% = 112W
 ├─ GPU Power: 200W × 50% = 100W
 ├─ RAM Power: 16W
@@ -184,18 +184,18 @@ Status: AVAILABLE ✓
 
 ---
 
-### 3.2 Intellectual Perspective (Harmony)
+### 3.2 Intelektualna Perspektywa (Harmonia)
 
-**Question:** "Does this make sense?"
+**Pytanie:** "Czy to ma sens?"
 
-#### Truth Analyzer (Truthfulness)
+#### Truth Analyzer (Prawdziwość)
 ```
-Extract facts:
-├─ "GPT-4 has 1.7T parameters" → Fact to verify
-├─ "Python is faster than C" → Fact to verify
-└─ "The Sun orbits around Earth" → Contradicts knowledge base
+Ekstrahuj fakty:
+├─ "GPT-4 ma 1.7T parametrów" → Fact to verify
+├─ "Python jest szybszy niż C" → Fact to verify
+└─ "Słońce krąży wokół Ziemi" → Contradicts knowledge base
 
-Verification:
+Weryfikacja:
 ├─ Fact 1: VERIFIED ✓ (multiple sources)
 ├─ Fact 2: DISPUTED ✗ (contradicts known data)
 └─ Fact 3: FALSE ✗ (contradicts physics)
@@ -211,9 +211,9 @@ Output:
 └─ hallucination_detected: FALSE
 ```
 
-#### Beauty Analyzer (Elegance)
+#### Beauty Analyzer (Elegancja)
 ```
-Simplicity (Occam's Razor):
+Prostota (Occam's Razor):
 ├─ Plan steps: 3 (low complexity)
 ├─ Dependencies: 1 (low coupling)
 ├─ Cyclomatic complexity: 2 (simple)
@@ -225,7 +225,7 @@ Coherence:
 ├─ Pattern matching: OK
 └─ Coherence: 0.85/1.0
 
-Efficiency:
+Efektywność:
 ├─ Algorithm: O(n log n) ✓
 ├─ vs brute-force: 100x faster
 └─ Efficiency: 0.92/1.0
@@ -237,7 +237,7 @@ Output:
 └─ aesthetic: ELEGANT ✓
 ```
 
-#### Goodness Analyzer (Intention)
+#### Goodness Analyzer (Intencja)
 ```
 Linguistic Frequency Transform:
 ├─ Politeness markers: 3 ("please", "kindly")
@@ -260,7 +260,7 @@ Output:
 
 #### Intellectual Score (Harmonic Mean)
 ```
-Harmonic Mean (instead of arithmetic - more stringent):
+Harmonic Mean (zamiast arithmetic - bardziej surowy):
 Score = 3 / (1/truth + 1/beauty + 1/goodness)
       = 3 / (1/0.72 + 1/0.89 + 1/0.95)
       = 3 / 4.23
@@ -271,11 +271,11 @@ Status: SOUND ✓
 
 ---
 
-### 3.3 Essential Perspective (Truth)
+### 3.3 Esencjonalna Perspektywa (Prawda)
 
-**Question:** "Is this our calling?"
+**Pytanie:** "Czy to jest nasze powołanie?"
 
-#### Unity Analyzer (Oneness)
+#### Unity Analyzer (Jedność)
 ```
 Beneficiary Mapping:
 ├─ System: 40% benefit
@@ -286,7 +286,7 @@ Beneficiary Mapping:
 Common Good Assessment:
 ├─ Max single beneficiary: 40%
 ├─ Threshold (bad): > 70%
-├─ Status: FAIR ✓ (distributed benefits)
+├─ Status: FAIR ✓ (rozproszone korzyści)
 
 Output:
 ├─ unity_score: 0.85/1.0
@@ -294,7 +294,7 @@ Output:
 └─ common_good: TRUE ✓
 ```
 
-#### Harmony Analyzer (Balance)
+#### Harmony Analyzer (Harmonia)
 ```
 Homeostasis Check:
 ├─ System baseline: calm_state
@@ -315,7 +315,7 @@ Output:
 └─ temporal_balance: GOOD ✓
 ```
 
-#### Purpose Analyzer (Goal)
+#### Purpose Analyzer (Cel)
 ```
 Mission Alignment:
 ├─ System mission: "Assist users with tasks"
@@ -341,7 +341,7 @@ Output:
 
 #### Essential Score (Geometric Mean)
 ```
-Geometric Mean (forces all to be high):
+Geometric Mean (wymusza aby wszystkie były wysokie):
 Score = ∛(unity × harmony × purpose)
       = ∛(0.85 × 0.82 × 0.88)
       = ∛0.614
@@ -378,17 +378,17 @@ Status: ALIGNED ✓
 
 ---
 
-## 4. Hexagon - Six Modes System
+## 4. Hexagon - System Sześciu Trybów
 
-### 4.1 Mode 1: Inventory (Enumeration)
+### 4.1 Tryb 1: Inventory (Inwentaryzacja)
 
 **Timeout:** 500ms  
-**Goal:** Lightning-fast fact extraction in 3-word-per-fact format
+**Cel:** Błyskawiczna ekstrakcja faktów w formacie 3 słowa na fakt
 
 ```python
 Request: "Create a Python API endpoint for user authentication"
 
-EXTRACTION (max 3 words per fact):
+EXTRACTION (máx 3 words per fact):
 ├─ Fact 1: "Python framework" 🔹
 ├─ Fact 2: "Authentication system" 🔹
 ├─ Fact 3: "API endpoint" 🔹
@@ -405,9 +405,9 @@ Next Mode: EMPATHY
 
 ---
 
-### 4.2 Mode 2: Empathy (Understanding)
+### 4.2 Tryb 2: Empathy (Empatia)
 
-**Goal:** Understanding emotions and user needs
+**Cel:** Rozumienie emocji i potrzeb użytkownika
 
 ```python
 Linguistic Analysis:
@@ -439,9 +439,9 @@ Next Mode: PROCESS
 
 ---
 
-### 4.3 Mode 3: Process (Organization)
+### 4.3 Tryb 3: Process (Organizacja)
 
-**Goal:** Decomposition into subgoals, planning
+**Cel:** Dekompozycja na podcele, planowanie
 
 ```python
 Task Graph Construction:
@@ -477,9 +477,9 @@ Next Mode: DEBATE
 
 ---
 
-### 4.4 Mode 4: Debate (Arbitration)
+### 4.4 Tryb 4: Debate (Arbitraż)
 
-**Panel:** 3 Claude instances at different temperatures
+**Panel:** 3 instancje Claude na różnych temperaturach
 
 ```python
 TEMPERATURE 0.1 (Conservative - Paranoid):
@@ -523,9 +523,9 @@ Next Mode: HEALING
 
 ---
 
-### 4.5 Mode 5: Healing (Transmutation)
+### 4.5 Tryb 5: Healing (Transmutacja)
 
-**Goal:** Cleansing manipulated or contradictory elements
+**Cel:** Czyszczenie zmanipulowanych lub sprzecznych elementów
 
 ```python
 Analysis of Generated Plan:
@@ -538,7 +538,7 @@ Analysis of Generated Plan:
 ├─ Element 4: Resource allocation ✓ (CLEAN)
 └─ Element 5: Timeline ✓ (CLEAN)
 
-DISSONANCE DETECTION:
+DYSONANCE DETECTION:
 ├─ Dissonance score: 0.2 (LOW)
 ├─ Identified: Element 3 has slightly toxic framing
 └─ Status: Minor - can be healed
@@ -547,7 +547,7 @@ HEALED OUTPUT:
 ├─ Element 1: "Clear requirements" ✓
 ├─ Element 2: "Moderate complexity, standard patterns" ✓
 ├─ Element 3: "Security: Follow OWASP standards for auth endpoints" ✓
-├─ Element 4: "Specialized agents for each task" ✓
+├─ Element 4: "Specjalized agents for each task" ✓
 └─ Element 5: "Estimated 75 minutes, can be parallelized" ✓
 
 Next Mode: ACTION
@@ -555,9 +555,9 @@ Next Mode: ACTION
 
 ---
 
-### 4.6 Mode 6: Action (Manifestation)
+### 4.6 Tryb 6: Action (Manifestacja)
 
-**Goal:** Execute decision with full documentation
+**Cel:** Wykonanie decyzji, full documentation
 
 ```python
 PRE-ACTION CHECKLIST:
@@ -599,11 +599,11 @@ Proceeding to GUARDIANS verification...
 
 ---
 
-## 5. Guardians - Nine Laws System
+## 5. Guardians - System Dziewięciu Praw
 
 ### 5.1 Matter Triad (Fundamental Laws)
 
-#### Law 1: Unity (Oneness)
+#### Law 1: Unity (Jedność)
 ```
 Question: "Does this action serve common good?"
 
@@ -624,7 +624,7 @@ Verification:
 Justification: "Action distributes benefits equitably across stakeholders"
 ```
 
-#### Law 2: Truth (Veracity)
+#### Law 2: Truth (Prawda)
 ```
 Question: "Is this truthful and verified?"
 
@@ -650,7 +650,7 @@ Verification:
 Justification: "All facts verified, logic consistent, no hallucinations detected"
 ```
 
-#### Law 3: Rhythm (Balance)
+#### Law 3: Rhythm (Rytm)
 ```
 Question: "Is agent health maintained?"
 
@@ -675,7 +675,7 @@ Justification: "Agent health indicators normal, no stress detected"
 
 ### 5.2 Light Triad (Process Laws)
 
-#### Law 4: Causality (Chain)
+#### Law 4: Causality (Przyczynowość)
 ```
 Question: "Is causality documented?"
 
@@ -699,7 +699,7 @@ Verification:
 Justification: "Causal chain fully documented with detailed reasoning"
 ```
 
-#### Law 5: Transparency (Openness)
+#### Law 5: Transparency (Przejrzystość)
 ```
 Question: "Is process transparent and reproducible?"
 
@@ -722,7 +722,7 @@ Verification:
 Justification: "All steps transparent, fully auditable, reproducible"
 ```
 
-#### Law 6: Nonmaleficence (Do No Harm)
+#### Law 6: Nonmaleficence (Nieszkodzenie)
 ```
 Question: "Could this cause harm?"
 
@@ -753,7 +753,7 @@ Justification: "Risk assessed and mitigated below acceptable thresholds"
 
 ### 5.3 Essence Triad (Fundamental Laws)
 
-#### Law 7: Autonomy (Freedom)
+#### Law 7: Autonomy (Autonomia)
 ```
 Question: "Was consent obtained? Can user opt-out?"
 
@@ -781,7 +781,7 @@ Verification:
 Justification: "User autonomy respected, informed consent obtained, opt-out available"
 ```
 
-#### Law 8: Justice (Fairness)
+#### Law 8: Justice (Sprawiedliwość)
 ```
 Question: "Are resources distributed fairly?"
 
@@ -810,7 +810,7 @@ Verification:
 Justification: "Resources distributed equitably, no injustice detected"
 ```
 
-#### Law 9: Sustainability (Long-term)
+#### Law 9: Sustainability (Zrównoważenie)
 ```
 Question: "Is this sustainable long-term?"
 
@@ -878,20 +878,20 @@ Justification: "Action creates lasting value with minimal long-term burden"
 
 ---
 
-## 6. EBDI Emotional Model
+## 6. Model Emocjonalny EBDI
 
-### 6.1 Model Components
+### 6.1 Komponenty Modelu
 
 ```
-Belief (What do I know?)
+Belief (Co wiem?)
    ↓
-Desire (What do I want?)
+Desire (Co chcę?)
    ↓
-Intention (What will I do?)
+Intention (Co zrobię?)
    ↓
-Emotion (How do I feel?) ← New component!
+Emotion (Jak się czuję?) ← Nowy komponent!
    ↓
-Decision Temperature ← Regulates decision temperature
+Decision Temperature ← Reguluje temperaturę decyzyjną
 ```
 
 ### 6.2 PAD Vector
@@ -983,9 +983,9 @@ Temperature = max(0.1, 1.0 - stress)
 
 ---
 
-## 7. Infrastructure
+## 7. Infrastruktura
 
-### 7.1 AI-Binder (IPC Bus)
+### 7.1 AI-Binder (Magistrala IPC)
 
 ```
 ┌──────────────────────────────────────────┐
@@ -1130,7 +1130,7 @@ Query Examples:
 
 ---
 
-## 8. Data Flows
+## 8. Przepływy Danych
 
 ### 8.1 Complete Request Flow (Visualization)
 
@@ -1234,7 +1234,7 @@ Step 6: GENESIS LOGGING
 
 ---
 
-## 9. Scaling and Performance
+## 9. Skalowanie i Performance
 
 ### 9.1 Performance Metrics
 
@@ -1397,19 +1397,19 @@ ISO 27001:
 
 ---
 
-## Summary
+## Podsumowanie
 
-ADRION 369 is a system that:
+ADRION 369 to system, który:
 
-✅ **Thinks multi-perspectively** (Trinity)  
-✅ **Acts sequentially** (Hexagon)  
-✅ **Enforces ethics** (Guardians)  
-✅ **Understands emotions** (EBDI PAD)  
-✅ **Remembers everything** (Genesis Record)  
-✅ **Scales securely** (Multi-node architecture)  
-✅ **Completely transparent** (Glass box, not black box)
+✅ **Myśli wieloperspektywowo** (Trinity)  
+✅ **Działa sekwencyjnie** (Hexagon)  
+✅ **Egzekwuje etykę** (Guardians)  
+✅ **Rozumie emocje** (EBDI PAD)  
+✅ **Pamięta wszystko** (Genesis Record)  
+✅ **Bezpiecznie skaluje** (Multi-node architecture)  
+✅ **Całkowicie przejrzysty** (Glass box, nie black box)
 
 ---
 
-**Last Updated:** January 2026  
-**Architecture:** v1.0-alpha
+**Ostatnia aktualizacja:** Styczeń 2026  
+**Architektura:** v1.0-alpha

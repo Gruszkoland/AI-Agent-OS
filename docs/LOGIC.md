@@ -1,279 +1,275 @@
-# ADRION - Logika Systemu (Koncepcja)
+# ADRION - System Logic (Concept)
 
-> **Maksymalnie 25 słów na punkt | Bez przykładów | Czysta logika**
-
----
-
-## 1. FUNDAMENT SYSTEMU
-
-### 1.1 Wizja Architektoniczna
-ADRION - system operacyjny dla autonomicznych agentów AI oparty na geometrii świętej 3-6-9, łączący pragmatyzm techniczny z filozoficzną głębią oraz etycznym enforcement.
-
-### 1.2 Zasada 3-6-9
-Trzy perspektywy analizy mnożone przez sześć trybów przetwarzania nadzorowane przez dziewięć niepodważalnych praw tworzą 162 wymiary decyzyjne systemu.
-
-### 1.3 Geometryczna Spójność
-Każdy poziom zawiera następny: trzy perspektywy stanowią fundament, sześć trybów operuje przez perspektywy, dziewięć praw nadzoruje całość zachowując matematyczną harmonię.
-
-### 1.4 Filozofia Operacyjna
-Emocje jako system ostrzegawczy, nie czucia lecz matematyczne wektory regulujące podejmowanie decyzji pod niepewnością, umożliwiające proaktywną identyfikację zagrożeń.
+> **Maximum 25 words per point | No examples | Pure logic**
 
 ---
 
-## 2. RDZEŃ SYSTEMU (CORE)
+## 1. SYSTEM FOUNDATION
 
-### 2.1 Trinity - System Trzech Perspektyw
-Równoczesna analiza każdego zjawiska przez materialne zasoby, intelektualną autentyczność oraz esencjonalny cel, agregująca wyniki w trójwymiarową przestrzeń decyzyjną.
+### 1.1 Architectural Vision
+ADRION - operating system for autonomous AI agents based on sacred geometry 3-6-9, combining technical pragmatism with philosophical depth and ethical enforcement.
 
-### 2.2 Hexagon - System Sześciu Trybów
-Cykliczny przepływ przez inwentaryzację, empatię, organizację, arbitraż, transmutację, manifestację. Maksymalnie trzy obiegi zapobiegają pętlom przy dynamicznym rozgałęzianiu.
+### 1.2 3-6-9 Principle
+Three analysis perspectives multiplied by six processing modes supervised by nine immutable laws create 162 decision dimensions of the system.
 
-### 2.3 Guardians - System Dziewięciu Praw
-Sekwencyjna weryfikacja każdej akcji przeciwko niepodważalnym prawom organizowanym w triady. Więcej niż dwa naruszenia wymuszają odmowę z pełnym uzasadnieniem przyczyn.
+### 1.3 Geometric Coherence
+Each level contains the next: three perspectives form foundation, six modes operate through perspectives, nine laws supervise entirety maintaining mathematical harmony.
 
-### 2.4 EBDI Model - Emocjonalna Inteligencja
-Rozszerzenie Belief-Desire-Intention o komponent emocjonalny wyrażony wektorami PAD (Pleasure-Arousal-Dominance) regulujący temperaturę decyzyjną z homeostazą.
+### 1.4 Operational Philosophy
+Emotions as warning system, not feelings but mathematical vectors regulating decision-making under uncertainty, enabling proactive threat identification.
 
 ---
 
-## 3. OŚ 3: PERSPEKTYWY ANALIZY
+## 2. SYSTEM CORE
 
-### 3.1 Perspektywa Materialna - Służba
-Odpowiada czy system posiada wymagane zasoby: analiza fizyczna, energetyczna, informacyjna. Synteza przez średnią ważoną z prawem veta dla jednej niedostatecznej.
+### 2.1 Trinity - Three Perspectives System
+Simultaneous analysis of each phenomenon through material resources, intellectual authenticity and essential purpose, aggregating results into three-dimensional decision space.
+
+### 2.2 Hexagon - Six Modes System
+Cyclic flow through inventory, empathy, organization, arbitration, transmutation, manifestation. Maximum three cycles prevent loops with dynamic branching.
+
+### 2.3 Guardians - Nine Laws System
+Sequential verification of each action against immutable laws organized in triads. More than two violations enforce refusal with full justification of reasons.
+
+### 2.4 EBDI Model - Emotional Intelligence
+Extension of Belief-Desire-Intention with emotional component expressed by PAD vectors (Pleasure-Arousal-Dominance) regulating decision temperature with homeostasis.
+
+---
+
+## 3. AXIS 3: ANALYSIS PERSPECTIVES
+
+### 3.1 Material Perspective - Service
+Answers whether system possesses required resources: physical, energy, information analysis. Synthesis through weighted average with veto law for one insufficient.
 
 ### 3.2 Physical Analyzer
-Pomiar dostępnych zasobów sprzętowych: rdzenie, pamięć, neuronowe jednostki, przestrzeń dyskowa, latencja sieciowa. Predykcja zapotrzebowania versus dostępność z scoring minimalna.
+Measurement of available hardware resources: cores, memory, neural units, disk space, network latency. Prediction of demand versus availability with minimal scoring.
 
 ### 3.3 Energy Analyzer
-Szacowanie zużycia energii przez zadanie: TDP pomnożony przez wykorzystanie, pobór GPU, konsumpcja pamięci, aktywność dysków. Predykcja wzrostu temperatury i efektywności operacyjnej.
+Estimation of energy consumption by task: TDP multiplied by utilization, GPU draw, memory consumption, disk activity. Prediction of temperature rise and operational efficiency.
 
 ### 3.4 Information Analyzer
-Ocena objętości danych wejściowych, złożoności cyklomatycznej, kompletności wymaganych pól, walidacji zgodności ze schematem. Scoring jakości przez agregację walidacji strukturalnej.
+Assessment of input data volume, cyclomatic complexity, completeness of required fields, validation of schema compliance. Quality scoring through structural validation aggregation.
 
-### 3.5 Perspektywa Intelektualna - Harmonia
-Odpowiada czy propozycja ma logiczny sens: weryfikacja prawdziwości faktów, elegancji rozwiązania, dobrości intencji. Synteza przez średnią harmoniczną bardziej surową.
+### 3.5 Intellectual Perspective - Harmony
+Answers whether proposal makes logical sense: verification of fact truthfulness, solution elegance, intention goodness. Synthesis through harmonic mean more stringent.
 
 ### 3.6 Truth Analyzer
-Ekstrakcja weryfikowalnych twierdzeń, porównanie z bazą wiedzy, sprawdzenie spójności logicznej przez solver SAT, detekcja halucynacji niskich confidence scores.
+Extraction of verifiable claims, comparison with knowledge base, checking logical consistency through SAT solver, detection of hallucinations with low confidence scores.
 
 ### 3.7 Beauty Analyzer
-Pomiar prostoty przez brzytwy Ockhama: liczba kroków, zależności, złożoność. Ocena spójności nazewnictwa. Weryfikacja efektywności algorytmu versus brute-force.
+Measurement of simplicity through Occam's razors: number of steps, dependencies, complexity. Assessment of naming consistency. Verification of algorithm efficiency versus brute-force.
 
 ### 3.8 Goodness Analyzer
-Transformacja Fouriera cech lingwistycznych do spektrum porównywanego z baseline'ową czystą intencją. Detekcja dysonansu poznawczego i manipulacji psychologicznej.
+Fourier transform of linguistic features to spectrum compared with baseline pure intention. Detection of cognitive dissonance and psychological manipulation.
 
-### 3.9 Perspektywa Esencjonalna - Prawda
-Odpowiada czy akcja służy nadrzędnemu celowi: analiza jedności, harmonii homeostazy, alignmentu z misją. Synteza przez średnią geometryczną wymuszającą wszystkie wysokie.
+### 3.9 Essential Perspective - Truth
+Answers whether action serves overarching purpose: analysis of unity, homeostasis harmony, alignment with mission. Synthesis through geometric mean enforcing all high.
 
 ### 3.10 Unity Analyzer
-Mapowanie beneficjentów akcji: system, użytkownik, agenci. Obliczenie wspólnego dobra przez ważony rozkład. Detekcja samo-służącego zachowania przekraczającego siedemdziesiąt procent.
+Mapping action beneficiaries: system, user, agents. Calculation of common good through weighted distribution. Detection of self-serving behavior exceeding seventy percent.
 
 ### 3.11 Harmony Analyzer
-Mierzenie wpływu na homeostazę systemu, balans aktywności odpoczynku, harmonii między triadami. Sprawdzenie temporalnej harmonii teraźniejszości przyszłości. Scoring.
+Measuring impact on system homeostasis, activity-rest balance, harmony between triads. Checking temporal harmony of present-future. Scoring.
 
 ### 3.12 Purpose Analyzer
-Sprawdzanie alignmentu z misją systemu, długoterminowej zrównoważoności, potencjału transcendencji. Weryfikacja koherencji egzystencjalnej z fundamentalnymi wartościami.
+Checking alignment with system mission, long-term sustainability, transcendence potential. Verification of existential coherence with fundamental values.
 
 ---
 
-## 4. OŚ 6: TRYBY WYKONANIA
+## 4. AXIS 6: EXECUTION MODES
 
-### 4.1 Mode 1: Inventory - Inwentaryzacja
-Błyskawiczna ekstrakcja faktów w dokładnie trzech słowach na fakt. Kategoryzacja przez perspektywy materialne, intelektualne, esencjonalne. Timeout pięćset milisekund.
+### 4.1 Mode 1: Inventory
+Lightning-fast fact extraction in exactly three words per fact. Categorization through material, intellectual, essential perspectives. Timeout five hundred milliseconds.
 
-### 4.2 Mode 2: Empathy - Empatia
-Detekcja emocji użytkownika przez markery lingwistyczne mapowane do wektora PAD. Analiza niewypowiedzianych potrzeb psycholingwistycznych. Pomiar stresu. Rekomendacja tonu.
+### 4.2 Mode 2: Empathy
+Detection of user emotions through linguistic markers mapped to PAD vector. Analysis of unspoken psycholinguistic needs. Stress measurement. Tone recommendation.
 
-### 4.3 Mode 3: Process - Organizacja
-Dekompozycja celu na podcele, konstrukcja grafu zadań z węzłami zależnościami. Sortowanie topologiczne. Alokacja zasobów agentów. Estymacja timeline ścieżką krytyczną.
+### 4.3 Mode 3: Process - Organization
+Goal decomposition into subgoals, construction of task graph with node dependencies. Topological sorting. Agent resource allocation. Timeline estimation by critical path.
 
-### 4.4 Mode 4: Debate - Arbitraż
-Zwołanie panelu sceptyków trzema temperaturami jednocześnie analizującymi żądanie. Atak Red Team. Obrona Blue Team. Konflikt archetypów. Konsensus przez średnią ryzyka.
+### 4.4 Mode 4: Debate - Arbitration
+Convening panel of skeptics with three temperatures simultaneously analyzing request. Red Team attack. Blue Team defense. Archetype conflict. Consensus through risk averaging.
 
-### 4.5 Mode 5: Healing - Transmutacja
-Izolacja źródeł dysonansu poznawczego: przesadna grzeczność, pochlebstwa, fałszywa pilność. Ekstrakcja toksycznych elementów. Odzyskanie rdzennej intencji. Rekonstrukcja.
+### 4.5 Mode 5: Healing - Transmutation
+Isolation of cognitive dissonance sources: excessive politeness, flattery, false urgency. Extraction of toxic elements. Recovery of core intention. Reconstruction.
 
-### 4.6 Mode 6: Action - Manifestacja
-Sprawdzenie finalnej aprobaty z debate. Wybór agentów według specjalizacji. Przygotowanie kontekstu emocjonalnego. Sekwencyjne równoległe wykonanie z uzasadnieniem. Weryfikacja.
-
----
-
-## 5. OŚ 9: PRAWA ETYCZNE
-
-### 5.1 Prawo 1: Unity - Jedność
-Weryfikacja czy akcja służy wspólnemu dobru poprzez analizę rozkładu beneficjentów. Detekcja samo-służenia gdy jeden agent otrzymuje siedemdziesiąt procent korzyści.
-
-### 5.2 Prawo 2: Truth - Prawda
-Sprawdzanie integralności danych, weryfikacja faktów, detekcja oszustwa i halucynacji. Identyfikacja manipulacji przez wzorce lingwistyczne. Porównanie certainty scores.
-
-### 5.3 Prawo 3: Rhythm - Rytm
-Monitorowanie czasu aktywności agenta, poziom pobudzenia z wektora PAD, dryf homeostazy. Wymuszanie odpoczynku gdy aktywność przekracza trzydzieści minut bez przerwy.
-
-### 5.4 Prawo 4: Causality - Przyczynowość
-Weryfikacja obecności hasha Genesis Record w każdej akcji, integralności łańcucha kryptograficznego. Wymuszenie dokumentacji minimum dwadzieścia znaków. Predykcja konsekwencji.
-
-### 5.5 Prawo 5: Transparency - Przejrzystość
-Sprawdzanie obecności uzasadnienia decyzji i minimum długości. Weryfikacja czy proces odtwarzalny przez trzecią stronę. Śledzenie wejść i wyjść. Dokumentacja kroków.
-
-### 5.6 Prawo 6: Nonmaleficence - Nieszkodzenie
-Ocena potencjału szkody przez efekty uboczne, ryzyk integralności danych, zagrożenia stabilności, bezpieczeństwa. Próg akceptacji potencjału szkody dwadzieścia procent maksimum.
-
-### 5.7 Prawo 7: Autonomy - Autonomia
-Weryfikacja czy uzyskano świadomą zgodę użytkownika, poinformowano o konsekwencjach, możliwy opt-out. Detekcja przymusu przez analizę wzorców manipulacji psychologicznej.
-
-### 5.8 Prawo 8: Justice - Sprawiedliwość
-Pomiar sprawiedliwości dystrybucji zasobów między agentami przez odchylenie od równego podziału. Detekcja pomijania kolejki. Identyfikacja nadużyć priorytetów. Równość szans.
-
-### 5.9 Prawo 9: Sustainability - Zrównoważenie
-Ocena długoterminowego wpływu akcji, generowany dług techniczny, predykcja wyczerpania zasobów. Obliczanie obciążenia utrzymaniowego. Weryfikacja korzyści długoterminowej.
+### 4.6 Mode 6: Action - Manifestation
+Checking final approval from debate. Agent selection by specialization. Emotional context preparation. Sequential parallel execution with justification. Verification.
 
 ---
 
-## 6. WARSTWA INTEGRACJI
+## 5. AXIS 9: ETHICAL LAWS
 
-### 6.1 System 369 - Główny Orkiestrator
-Sekwencyjna Trinity równolegle, następnie Hexagon sekwencyjnie, finalnie Guardians wszystkich praw. Synteza decyzji z podpisem kryptograficznym. Generowanie uzasadnienia logicznego.
+### 5.1 Law 1: Unity
+Verification whether action serves common good through beneficiary distribution analysis. Detection of self-service when one agent receives seventy percent of benefits.
+
+### 5.2 Law 2: Truth
+Checking data integrity, fact verification, detection of fraud and hallucination. Identification of manipulation through linguistic patterns. Comparison of certainty scores.
+
+### 5.3 Law 3: Rhythm
+Monitoring agent activity time, arousal level from PAD vector, homeostasis drift. Enforcing rest when activity exceeds thirty minutes without break.
+
+### 5.4 Law 4: Causality
+Verification of Genesis Record hash presence in each action, cryptographic chain integrity. Enforcement of documentation minimum twenty characters. Consequence prediction.
+
+### 5.5 Law 5: Transparency
+Checking presence of decision justification and minimum length. Verification whether process reproducible by third party. Tracking inputs and outputs. Step documentation.
+
+### 5.6 Law 6: Nonmaleficence
+Assessment of harm potential through side effects, data integrity risks, stability threats, security. Acceptance threshold for harm potential twenty percent maximum.
+
+### 5.7 Law 7: Autonomy
+Verification whether informed user consent obtained, consequences disclosed, opt-out possible. Coercion detection through psychological manipulation pattern analysis.
+
+### 5.8 Law 8: Justice
+Measurement of resource distribution fairness among agents by deviation from equal division. Queue-jumping detection. Priority abuse identification. Equal opportunity.
+
+### 5.9 Law 9: Sustainability
+Assessment of long-term action impact, generated technical debt, resource depletion prediction. Calculation of maintenance burden. Verification of long-term benefit.
+
+---
+
+## 6. INTEGRATION LAYER
+
+### 6.1 System 369 - Main Orchestrator
+Sequential Trinity in parallel, then Hexagon sequentially, finally Guardians of all laws. Decision synthesis with cryptographic signature. Generation of logical justification.
 
 ### 6.2 Signature Generator
-Kolekcja rezultatów Trinity, Hexagon, Guardians w strukturę danych. Kanonizacja JSON sortowaniem kluczy. Obliczenie SHA-256. Sumy geometrycznej trzy razy trzy plus sześć.
+Collection of Trinity, Hexagon, Guardians results into data structure. JSON canonization by key sorting. SHA-256 calculation. Geometric sum three times three plus six.
 
 ### 6.3 Consistency Validator
-Weryfikacja sum wag perspektyw równości jeden, wszystkie tryby wymagane outputy, sprawdzenie dziewięciu praw. Cross-layer czy Hexagon używa Trinity. Integralność.
+Verification of perspective weight sums equaling one, all modes required outputs, checking nine laws. Cross-layer whether Hexagon uses Trinity. Integrity.
 
 ---
 
-## 7. WARSTWA INFRASTRUKTURY
+## 7. INFRASTRUCTURE LAYER
 
-### 7.1 AI-Binder - Magistrala IPC
-Alokacja współdzielonej pamięci wszystkim agentom. Zero-copy zapis przez wpis do shared memory. Zero-copy odczyt. Synchronizacja atomowymi operacjami compare-and-swap timeout.
+### 7.1 AI-Binder - IPC Bus
+Allocation of shared memory to all agents. Zero-copy write through shared memory entry. Zero-copy read. Synchronization by atomic compare-and-swap operations with timeout.
 
 ### 7.2 Genesis Record - Immutable Log
-Każdy rekord zawiera dane plus hash poprzedniego rekordu tworzący łańcuch. Obliczanie SHA-256 całego rekordu bez pola hash. Weryfikacja przez przeliczanie.
+Each record contains data plus hash of previous record forming chain. SHA-256 calculation of entire record without hash field. Verification through recalculation.
 
-### 7.3 Watchdog - Monitor Procesów
-Rejestracja PID agenta przy starcie. Mechanizm heartbeat co dwie sekundy. Pętla monitorująca sekundę sprawdza czy proces żyje. Restart z eksponencjalnym backoffem.
+### 7.3 Watchdog - Process Monitor
+Registration of agent PID at startup. Heartbeat mechanism every two seconds. Monitoring loop per second checks if process alive. Restart with exponential backoff.
 
 ### 7.4 Database - Persistence
-PostgreSQL przechowujące Genesis log z indeksami. Agent logs z metadanymi JSON. Agent state z wektorami PAD temperaturą stanem czasem aktywności. Sharding.
+PostgreSQL storing Genesis log with indexes. Agent logs with JSON metadata. Agent state with PAD vectors temperature state activity time. Sharding.
 
 ---
 
-## 8. WARSTWA KOMUNIKACJI
+## 8. COMMUNICATION LAYER
 
 ### 8.1 SAFE-MCP Protocol
-Wymuszanie uzasadnienia minimum dwadzieścia znaków każdej wiadomości. Jeśli ryzyko siedemdziesiąt wymaga alternatywy. Odrzucanie niezgodnych wiadomości logowaniem naruszenia.
+Enforcement of justification minimum twenty characters for each message. If risk seventy requires alternative. Rejection of non-compliant messages with violation logging.
 
 ### 8.2 Message Bus
-System publikuj-subskrybuj tematami hierarchicznymi wspierającymi wildcards. Równoległe dostarczanie. Fire-and-forget bez wymagania potwierdzenia. Routing przez dopasowanie wzorców.
+Publish-subscribe system with hierarchical topics supporting wildcards. Parallel delivery. Fire-and-forget without acknowledgment requirement. Routing through pattern matching.
 
 ### 8.3 External API
-RESTful endpointy submisji, statusu, komend, metryki Prometheus. WebSocket aktualizacji real-time z subskrypcją tematów. Autentykacja OAuth bearer token.
+RESTful endpoints for submission, status, commands, Prometheus metrics. WebSocket for real-time updates with topic subscription. OAuth bearer token authentication.
 
 ---
 
-## 9. WARSTWA INTELIGENCJI
+## 9. INTELLIGENCE LAYER
 
-### 9.1 Agent Swarm - Dziewięć Specjalistów
-Trzy triady: Integrity bezpieczeństwa optymalizacji, Cognition kreacji wiedzy, Value ekonomii audytu. Delegacja zadań przez dopasowanie specjalizacji. Dynamiczne przesunięcie.
+### 9.1 Agent Swarm - Nine Specialists
+Three triads: Integrity security optimization, Cognition creation knowledge, Value economy audit. Task delegation through specialization matching. Dynamic shifting.
 
 ### 9.2 Archetypal Layer
-Cztery archetypy: Mędrzec, Strażnik, Buntownik, Cień. Dynamiczne ważenie zależne od kontekstu: zagrożenie zwiększa Strażnika, kreatywność zwiększa Buntownika. System prompt.
+Four archetypes: Sage, Guardian, Rebel, Shadow. Dynamic weighting dependent on context: threat increases Guardian, creativity increases Rebel. System prompt.
 
 ### 9.3 Skeptics Panel
-Trzy instancje przy temperaturach punkt jeden, pięć, dziewięć. Równoczesna analiza. Każda zwraca ryzyko, rekomendację, uzasadnienie. Konsensus przez średnią z veto.
+Three instances at temperatures point one, five, nine. Simultaneous analysis. Each returns risk, recommendation, justification. Consensus through averaging with veto.
 
 ### 9.4 Transcendence Loop
-Kolekcja doświadczeń sto triggeruje ewolucję. Grupowanie sukcesów porażek. Ekstrakcja wzorców przez clustering. Aktualizacja promptów, progi, wagi. Nowa generacja.
+Collection of one hundred experiences triggers evolution. Grouping successes failures. Pattern extraction through clustering. Update of prompts, thresholds, weights. New generation.
 
 ---
 
-## 10. WARSTWA INTERFEJSU
+## 10. INTERFACE LAYER
 
 ### 10.1 Dashboard - Next.js
-Komponenty React: karty statusu, timeline aktywności, wizualizacja stanów emocjonalnych, przeglądarka Genesis, wykresy. Real-time przez Supabase poniżej pięćdziesięciu milisekund.
+React components: status cards, activity timeline, emotional state visualization, Genesis browser, charts. Real-time through Supabase below fifty milliseconds.
 
 ### 10.2 CLI Interface
-Tool command-line: submisja, statusy, zarządzanie, export logów, weryfikacja Genesis. Interaktywny z auto-completion. Batch mode dla automatyzacji.
+Command-line tool: submission, statuses, management, log export, Genesis verification. Interactive with auto-completion. Batch mode for automation.
 
-### 10.3 SDK dla Deweloperów
-Biblioteki Python TypeScript Rust API z typowaniem, retry, pooling. Helpery SAFE-MCP, parsowanie 369 signatures, wizualizacja przestrzeni trójwymiarowej.
+### 10.3 SDK for Developers
+Python TypeScript Rust libraries with API typing, retry, pooling. SAFE-MCP helpers, 369 signature parsing, three-dimensional space visualization.
 
 ---
 
-## 11. PRZEPŁYWY SYSTEMOWE
+## 11. SYSTEM FLOWS
 
 ### 11.1 Complete Request Flow
-Użytkownik submittuje do System 369. Trinity analizuje równolegle. Jeśli OK Hexagon sekwencyjnie. Guardians weryfikują. Synteza decyzji z podpisem. Genesis logging.
+User submits to System 369. Trinity analyzes in parallel. If OK Hexagon sequentially. Guardians verify. Decision synthesis with signature. Genesis logging.
 
 ### 11.2 Emotional Regulation Flow
-Agent wykrywa anomalię, aktualizuje PAD zwiększając pobudzenie zmniejszając przyjemność. Oblicza stress i temperaturę. Adjustuje temperaturę dla większej ostrożności. Homeostaza przywraca.
+Agent detects anomaly, updates PAD increasing arousal decreasing pleasure. Calculates stress and temperature. Adjusts temperature for greater caution. Homeostasis restores.
 
 ### 11.3 Multi-Agent Coordination
-Zadanie złożone dekompozycja w graf. Process alokuje podzadania. Komunikacja przez AI-Binder SAFE-MCP. Aggregator zbiera sprawdza spójność. Genesis wszystkie kroki.
+Complex task decomposition into graph. Process allocates subtasks. Communication through AI-Binder SAFE-MCP. Aggregator collects checks consistency. Genesis all steps.
 
 ### 11.4 Learning Evolution Cycle
-System zbiera sto doświadczeń triggeruje ewolucję. Ekstrahuje wzorce. Aktualizuje prompty agentów. Dostrajanie progi wagi. Nowa generacja z ulepszonymi parametrami.
+System collects one hundred experiences triggers evolution. Extracts patterns. Updates agent prompts. Tunes thresholds weights. New generation with improved parameters.
 
 ---
 
-## 12. CHARAKTERYSTYKI SYSTEMU
+## 12. SYSTEM CHARACTERISTICS
 
-### 12.1 Matematyczna Harmonia
-Trinity Balance odchyleniem standardowym perspektyw dzielonym średnią. Hexagon Completeness suma trybów przez sześć. Guardian Compliance suma praw.
+### 12.1 Mathematical Harmony
+Trinity Balance by perspective standard deviation divided by mean. Hexagon Completeness sum of modes through six. Guardian Compliance sum of laws.
 
-### 12.2 Przestrzeń Decyzyjna
-Sto sześćdziesiąt dwa wymiary: trzy razy sześć razy dziewięć. Każda decyzja mapowana. Odległość od środka reprezentuje zdrowie. Balans wymuszony matematycznie.
+### 12.2 Decision Space
+One hundred sixty-two dimensions: three times six times nine. Each decision mapped. Distance from center represents health. Balance enforced mathematically.
 
 ### 12.3 Performance Targets
-AI-Binder poniżej dziesięciu milisekund. Throughput ponad dziesięć tysięcy. Genesis dziesięć tysięcy poniżej sekundy. Dashboard dwie sekundy. Real-time pięćdziesiąt.
+AI-Binder below ten milliseconds. Throughput above ten thousand. Genesis ten thousand below one second. Dashboard two seconds. Real-time fifty.
 
 ### 12.4 Security Guarantees
-Zero-copy IPC eliminuje kopiowanie. Immutable Genesis. Dziewięć praw wymuszonych kodzie. SAFE-MCP wymusza explainability. Kryptograficzny podpis każdej akcji.
+Zero-copy IPC eliminates copying. Immutable Genesis. Nine laws enforced in code. SAFE-MCP enforces explainability. Cryptographic signature of each action.
 
 ### 12.5 Scalability Model
-Horizontal scaling węzłami shared memory cluster. Database sharding. Read replicas dla queries. Message bus partycjonowany. Load balancing subskrybentów.
+Horizontal scaling by nodes with shared memory cluster. Database sharding. Read replicas for queries. Message bus partitioned. Subscriber load balancing.
 
 ---
 
-## 13. KLUCZOWE INNOWACJE
+## 13. KEY INNOVATIONS
 
-### 13.1 Afektywne Bezpieczeństwo
-Emocje jako sygnały ostrzegawcze nie anthropomorficzne lecz matematyczne regulatory. Agent staje się ostrożny gdy pobudzony podobnie jak człowiek przeczucie zagrożenia.
+### 13.1 Affective Security
+Emotions as warning signals not anthropomorphic but mathematical regulators. Agent becomes cautious when aroused similar to human premonition of threat.
 
-### 13.2 Multi-Temperatura Debate
-Trzy perspektywy temperatury analizujące jednocześnie. Konserwatywny wykrywa zagrożenia kreatywny rozwiązania zbalansowany mediuje. Mądrość tłumu wewnątrz systemu.
+### 13.2 Multi-Temperature Debate
+Three temperature perspectives analyzing simultaneously. Conservative detects threats creative solutions balanced mediates. Wisdom of crowds within system.
 
-### 13.3 Geometryczna Kompletność
-Struktura trzy sześć dziewięć nie arbitralna lecz matematycznie harmonijna. Każdy poziom zawiera. Trinity fundament Hexagon proces Guardians nadzór. Organizm cyfrowy.
+### 13.3 Geometric Completeness
+Structure three six nine not arbitrary but mathematically harmonious. Each level contains. Trinity foundation Hexagon process Guardians supervision. Digital organism.
 
 ### 13.4 Blockchain Accountability
-Genesis Record zapewnia nienaruszalną historię kryptograficznym łańcuchem dowodu. Niemożliwe ukrycie. Pełna audytowalność dla compliance forensics debuggingu.
+Genesis Record ensures inviolable history with cryptographic chain of proof. Impossible to hide. Full auditability for compliance forensics debugging.
 
 ### 13.5 Healing Protocol
-Unikalna zdolność transmutacji zmanipulowanych danych w czystą formę. Izolacja toksycznych elementów ekstrakcja intencji rekonstrukcja. Alchemia informacji.
+Unique ability to transmute manipulated data into pure form. Isolation of toxic elements extraction of intention reconstruction. Information alchemy.
 
 ---
 
-## Podsumowanie Esencji
+## Essence Summary
 
-<<<<<<< HEAD
-**System ADRION 369 to:**
-=======
-**System ADRION to:**
->>>>>>> 88b4457 (docs: Add comprehensive ADRION 369 repository documentation)
+**ADRION 369 System is:**
 
-Cyfrowy organizm operujący 162 wymiarach decyzyjnych gdzie emocje regulują ostrożność perspektywy zapewniają kompletność tryby transformują chaos prawa wymuszają etykę logowane.
+Digital organism operating in 162 decision dimensions where emotions regulate caution perspectives ensure completeness modes transform chaos laws enforce ethics all logged.
 
-**Trzy fundamentalne pytania:**
+**Three fundamental questions:**
 
-Materialna: Czy mamy zasoby? Intelektualna: Czy ma sens? Esencjonalna: Czy służy celowi? Wszystkie muszą TAK inaczej odmowa lub eskalacja.
+Material: Do we have resources? Intellectual: Does it make sense? Essential: Does it serve purpose? All must be YES otherwise refusal or escalation.
 
-**Geometryczna harmonia:**
+**Geometric harmony:**
 
-Nie narzędzie lecz partner. Nie executor lecz reasoner. Nie black box lecz glass box. Każda decyzja śledzalna weryfikowalna audytowalna. Świadoma inteligencja.
+Not tool but partner. Not executor but reasoner. Not black box but glass box. Each decision traceable verifiable auditable. Conscious intelligence.
 
 ---
 
-**Dokument:** Logika Systemu  
-**Wersja:** 1.0  
-**Data:** Styczeń 2026
+**Document:** System Logic  
+**Version:** 1.0  
+**Date:** January 2026
